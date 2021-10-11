@@ -698,20 +698,143 @@
       #t1-1.titulo-segundo
         h2 1.10 Canales de comunicación de la moda: medios digitales, impresos, audiovisual, material pop.
 
+      .row.justify-content-center.mb-5
+        .col-lg-6.mb-5.mb-lg-0
+          .bloque-texto-d.color--azul.p-4
+            .bloque-texto-d__texto.mb-2.text-center
+              i.fas.fa-quote-left
+              h3 La sociedad habla. Habla diariamente en sus vestidos, en sus ropas, en sus trajes. Quien no sabe escucharla hablar en estos síntomas del habla, la atraviesa a ciegas.
+                br
+                | No la conoce. No la modifica
+              i.fas.fa-quote-right
+            .bloque-texto-d__autor 
+              p.mb-0 como lo mencionó Eco U. 
+                br
+                | (Chicas Guapas, blog de moda y belleza, 2016) 
+
+      .row.justify-content-center.align-items-stretch.mb-5
+        .col-lg-6
+          .cajon-b.color-primario.p-4.mb-4
+            p.eb La función principal de cualquier marca en un mercado determinado es 
+              b hacerse conocer, permanecer en los afectos de su cliente, crecer 
+              | y a la par buscar la fidelidad de sus seguidores.
+            p.eb.mb-0 
+              b Las estrategias de comunicación 
+              | en un plan de mercadeo son 
+              b los ejes 
+              | que fundamentan la consecución de 
+              b los objetivos de penetración de las marcas
+              | ; para el logro de estos se recurre a los canales de comunicación que son los que cuentan las historias de una manera precisa, partiendo de la experiencia de los clientes reales, pero, sobre todo, los clientes potenciales. 
+          
+          .cajon.color-acento-contenido.p-5
+              p.eb.mb-0 Los canales offline, tradicionales y los online relativamente más recientes son las herramientas con las que se llevan de una manera contundente los mensajes del marketing a la mente de los consumidores. Posicionar una marca en el mercado y sobre todo mantenerla vigente es una tarea que necesita el respaldo de la parte comercial y administrativa de la empresa.
+
+        .col-lg-6.solo-fondo.tarjeta(
+          :style="{'background-image' : `url(${require('@/assets/curso/t1-19.jpg')})`}"
+        )
 
 
+      p.mb-5.eb 
+        b Posicionar un producto 
+        | en el mercado implica 
+        b el conocimiento perfecto del consumidor y su entorno
+        | , para poder enviar el mensaje correcto de la forma más eficaz posible en todo momento y ocasión.
 
+    .p-4.p-md-5.color-primario--claro
 
+      p.mb-5.eb Los canales de comunicación tradicionales o 
+        b canales offline
+        | , están soportados por la publicidad en físico con las siguientes acciones:
 
+      .row.justify-content-center.align-items-stretch
+        .col-lg-6
+          
+          ul.lista-ul--color.lista-ul--separador
+            li 
+              i.fas.fa-atom
+              p.eb.mb-0 
+                b Manejo del punto de venta 
+                | que transmite el 
+                b lenguaje visual 
+                | de la marca para el posicionamiento y mantenimiento del producto.
+            li 
+              i.fas.fa-atom
+              p.eb.mb-0 
+                b La información de prensa 
+                | que consiste en utilización de 
+                b medios de comunicación tradicionales
+                | , televisión, radio, impresos como periódicos y revistas especializados que ayudan a 
+                b capturar perfiles de usuarios tradicionales 
+                | que no frecuentan el internet, pero son buenos consumidores.
+            li 
+              i.fas.fa-atom
+              p.eb.mb-0 
+                b La publicidad exterior 
+                | de gran impacto y movilidad, es una estrategia inmejorable para la 
+                b comunicación de imagen de marca
+                | , ofrece una buena posibilidad de llegar a lugares físicos altamente visibles.
+            li 
+              i.fas.fa-atom
+              p.eb.mb-0 
+               b Presencia en eventos (ferias) y activaciones de marca del sector
+               | , donde se dé a conocer la marca y sus proyectos, además interactuar con otras empresas que sean de beneficio y pueden convertirse en aliados estratégicos.
+            li 
+              i.fas.fa-atom
+              p.eb.mb-0 También se incluyen en estos otros 
+                b medios de hacer publicidad impresa 
+                | como los volantes, afiches, tarjetas, pendones, catálogos y desde luego los souvenirs o regalos, que ayudan a la 
+                b recordación de la marca 
+                | de manera directa.
 
+        .col-lg-6.solo-fondo.tarjeta(
+          :style="{'background-image' : `url(${require('@/assets/curso/t1-31.jpg')})`}"
+        )
 
+    .p-4.p-md-5.caja-azul
 
+      p.mb-5.eb Los canales de comunicación digital o 
+        b canales online
+        | , hacen 
+        b publicidad a través de internet
+        | , estos son:
 
+      .row.justify-content-center.align-items-stretch
+        .col-lg-6
+          
+          ul.lista-ul--color.lista-ul--separador
+            li 
+              i.fas.fa-atom
+              p.eb.mb-0 
+                b Las páginas web: 
+                | que presentan contenidos propios de la marca y conservan su imagen y valores, además de hacer conquista de perfiles de usuarios más jóvenes, modernos y activos.
+            li 
+              i.fas.fa-atom
+              p.eb.mb-0 
+                b El uso de Email: 
+                | mantiene activa la comunicación y las relaciones comerciales con todos los usuarios y conocedores de la marca, adicionalmente facilita la promoción de los negocios.
+            li 
+              i.fas.fa-atom
+              p.eb.mb-0 
+                b Las redes sociales 
+                | (Instagram, Facebook, YouTube, WhatsApp y las que van emergiendo) promueven la interrelación de la comunicación para llegar a los públicos por medio de un 
+                b voz a voz digital 
+                | que amplía el rango de penetración y conocimiento de la marca, los procesos y los productos (globalización de la marca).
+            li 
+              i.fas.fa-atom
+              p.eb.mb-0 
+                b Los anuncios 
+                | en las redes sociales o motores de búsqueda, hacen la tarea de publicidad 
+                b enfocada a la posibilidad de ampliar el mercado e informar 
+                | sobre los nuevos productos, dejando una sensación de expectativa que genera nuevas oportunidades de ventas para la marca.
 
+        .col-lg-6.solo-fondo.tarjeta(
+          :style="{'background-image' : `url(${require('@/assets/curso/t1-32.jpg')})`}"
+        )
 
-
-
-
+    .p-4.p-md-5
+      p.mb-0.eb Toda estrategia comunicativa debe incorporar a su interior lo que tiene que ver con el material P.O.P (bolsas de empaque, etiquetas, catálogos, marquillas y otros), para poder proyectar y mantener una imagen que sea 
+        b coherente con la promesa de valor de la marca 
+        | y sobre todo que promueva los canales adecuados para llegar a sus clientes de una manera eficaz, con los mensajes específicos que ayuden a reconocer, seleccionar, promocionar, comprar y hablar bien de la marca y sus productos. 
 
 
 </template>
