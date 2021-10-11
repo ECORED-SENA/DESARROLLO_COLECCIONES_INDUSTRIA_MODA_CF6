@@ -63,7 +63,7 @@
       Separador
 
       #t1-1.titulo-segundo
-        h2 1.1 Introducción al tema sobre la comunicación de la moda.
+        h2 1.1 Introducción al tema sobre la comunicación de la moda
 
       .row.align-items-stretch.m-0.mb-5
         .col-md-6.p-5.solo-fondo(
@@ -109,14 +109,14 @@
                   .col.mb-3.mb-sm-0
                     p.mb-0.text-center.text-white Acerte no Look - Dicas de Moda e Beleza. (2016). Video: Looks de 100 anos de moda.
                   .col-sm-auto
-                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=zsqemeClPqQ" target="_blank")
+                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=SzSfrKtZFOw" target="_blank")
                       span Ver más
                       i.fas.fa-link
 
       Separador
 
-      #t1-1.titulo-segundo
-        h2 1.2 Sistemas de comunicación y vestuario.
+      #t1-2.titulo-segundo
+        h2 1.2 Sistemas de comunicación y vestuario
 
       .row.justify-content-center
         .col-lg-6.mb-4.mb-md-0
@@ -160,7 +160,7 @@
 
       Separador
 
-      #t1-1.titulo-segundo
+      #t1-3.titulo-segundo
         h2 1.3 La semiología: la interpretación de símbolos, signos y señales en el mundo de la moda
 
       .row.align-items-stretch.m-0.mb-5.tarjeta
@@ -215,7 +215,7 @@
         )
 
       .row.justify-content-center
-        .col-md-6
+        .col-md-6.mb-4.mb-md-0
           .tarjeta.color-primario.p-3
             .row.justify-content-around.align-items-center
               .col-3.col-sm-2
@@ -225,7 +225,7 @@
                   .col.mb-3.mb-sm-0
                     p.mb-0.text-center.text-white Moschino Pre-Fall 2020 fashion show!
                   .col-sm-auto
-                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=zsqemeClPqQ" target="_blank")
+                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=zKPg-6yZWmw" target="_blank")
                       span Ver más
                       i.fas.fa-link
 
@@ -239,13 +239,13 @@
                   .col.mb-3.mb-sm-0
                     p.mb-0.text-center.text-white "MOSCHINO" Full Show HD Milano. Moda Donna Autumn Winter 2014 2015 by Fashion Channel
                   .col-sm-auto
-                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=zsqemeClPqQ" target="_blank")
+                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=j6FDYGNOXtQ" target="_blank")
                       span Ver más
                       i.fas.fa-link
 
       Separador
 
-      #t1-1.titulo-segundo
+      #t1-4.titulo-segundo
         h2 1.4 Lenguaje y simbología del color y el estampado
 
       p.eb Hay una 
@@ -314,8 +314,8 @@
 
       Separador
 
-      #t1-1.titulo-segundo
-        h2 1.5 Expresión cultural de la moda: investigación desde la cultura y la historia        
+      #t1-5.titulo-segundo
+        h2 1.5 Expresión cultural de la moda: investigación desde la cultura y la historia 
 
       .row.justify-content-center.align-items-stretch.mb-5
         .col-lg-6
@@ -328,7 +328,7 @@
         )
 
       .row.justify-content-center.mb-5
-        .col-lg-6.solo-fondo.tarjeta(
+        .col-lg-6.solo-fondo.tarjeta.mb-4.mb-lg-0(
           :style="{'background-image' : `url(${require('@/assets/curso/t1-20.jpg')})`}"
         )
         .col-lg-6
@@ -340,7 +340,7 @@
 
       Separador
 
-      #t1-1.titulo-segundo
+      #t1-6.titulo-segundo
         h2 1.6 Lenguaje al vestir según las ocasiones e intención comunicacional
 
       .row.justify-content-center.mb-5
@@ -365,7 +365,7 @@
 
       .row.justify-content-center.mb-5
         .col-lg-8
-          .cajon.color-acento-contenido.p-5.mb-4
+          .cajon.color-acento-contenido.p-5
             p.eb.mb-0 La búsqueda del concepto belleza ha sido la herramienta utilizada por el marketing para generar un espíritu de necesidades insatisfechas al plantear 
               b cánones de belleza 
               | casi inalcanzables, donde las marcas supuestamente crean las soluciones a los problemas que se cree tener; es aquí donde las personas tienen que 
@@ -407,7 +407,7 @@
 
       Separador
 
-      #t1-1.titulo-segundo
+      #t1-7.titulo-segundo
         h2 1.7 La moda en lo social: desde el estilo hasta el mal gusto
 
       figure.tarjeta.mb-5
@@ -534,9 +534,9 @@
                       | en la dimensiones física, mental y actitudinal.
 
       .row.justify-content-center
-        .col-md-6
-          .tarjeta.color-primario.p-3
-            .row.justify-content-around.align-items-center
+        .col-md-6.mb-4.mb-md-0
+          .tarjeta.color-primario.p-3.h-100
+            .row.justify-content-around.align-items-center.h-100
               .col-3.col-sm-2
                 img(src='@/assets/curso/t1-12.svg' style="max-width: 80px")
               .col
@@ -544,13 +544,13 @@
                   .col.mb-3.mb-sm-0
                     p.mb-0.text-center.text-white Escena Titanic español latino (Jack cena en la primera clase) 30 ago. 2009
                   .col-sm-auto
-                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=zsqemeClPqQ" target="_blank")
+                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=nG2QbGN_Wd0" target="_blank")
                       span Ver más
                       i.fas.fa-link
 
         .col-md-6
-          .tarjeta.color-primario.p-3
-            .row.justify-content-around.align-items-center
+          .tarjeta.color-primario.p-3.h-100
+            .row.justify-content-around.align-items-center.h-100
               .col-3.col-sm-2
                 img(src='@/assets/curso/t1-12.svg' style="max-width: 80px")
               .col
@@ -558,13 +558,13 @@
                   .col.mb-3.mb-sm-0
                     p.mb-0.text-center.text-white Titanic 3d - Jack y Rose bailan en tercera clase Marzo 28 de 2012
                   .col-sm-auto
-                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=zsqemeClPqQ" target="_blank")
+                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=pOSZrMOzq00" target="_blank")
                       span Ver más
                       i.fas.fa-link
 
       Separador
 
-      #t1-1.titulo-segundo
+      #t1-8.titulo-segundo
         h2 1.8 Psicología de la moda: sexualidad, ropa mágica, ropa malévola y ropa neurótica
 
       p.eb 
@@ -613,7 +613,7 @@
 
       Separador
 
-      #t1-1.titulo-segundo
+      #t1-9.titulo-segundo
         h2 1.9 Montaje de colecciones como recurso comunicativo en la interacción con el consumidor
 
       .row.justify-content-center.mb-5
@@ -689,14 +689,14 @@
                   .col.mb-3.mb-sm-0
                     p.mb-0.text-center.text-white Como hacer una colección de moda – Anana
                   .col-sm-auto
-                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=zsqemeClPqQ" target="_blank")
+                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=5WgxbULQFC8&t=6s" target="_blank")
                       span Ver más
                       i.fas.fa-link
 
       Separador
 
-      #t1-1.titulo-segundo
-        h2 1.10 Canales de comunicación de la moda: medios digitales, impresos, audiovisual, material pop.
+      #t1-10.titulo-segundo
+        h2 1.10 Canales de comunicación de la moda: medios digitales, impresos, audiovisual, material pop
 
       .row.justify-content-center.mb-5
         .col-lg-6.mb-5.mb-lg-0
@@ -733,8 +733,7 @@
           :style="{'background-image' : `url(${require('@/assets/curso/t1-19.jpg')})`}"
         )
 
-
-      p.mb-5.eb 
+      p.mb-0.eb
         b Posicionar un producto 
         | en el mercado implica 
         b el conocimiento perfecto del consumidor y su entorno

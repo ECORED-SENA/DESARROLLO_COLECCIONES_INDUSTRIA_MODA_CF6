@@ -75,7 +75,7 @@
 
       Separador
 
-      #t2-1.titulo-segundo
+      #t2-2.titulo-segundo
         h2 2.2 Imagen de la marca o branding: nombre y slogan de la marca, tipografía, fuente y paleta de color
 
       p.mb-5.eb Para darle 
@@ -144,7 +144,7 @@
                   .col.mb-3.mb-sm-0
                     p.mb-0.text-small.text-white Brand Inteligente (2018). Anexo B_U2. Caso Apple: Logo, identidad y gestión de marca | Branding Ejemplos
                   .col-sm-auto
-                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=zsqemeClPqQ" target="_blank")
+                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=tf_GDM7lxvs" target="_blank")
                       span Ver más
                       i.fas.fa-link
 
@@ -160,7 +160,7 @@
                       br
                       | COCA-COLA. (2019). Un Mundo Sin Residuos.
                   .col-sm-auto
-                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=zsqemeClPqQ" target="_blank")
+                    a.boton.color-acento-contenido.texto-blanco(href="https://youtu.be/A_tC4H9KPzg" target="_blank")
                       span Ver más
                       i.fas.fa-link
 
@@ -176,7 +176,7 @@
                       br
                       | Go With The Flaw - DIESEL FW17.
                   .col-sm-auto
-                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=zsqemeClPqQ" target="_blank")
+                    a.boton.color-acento-contenido.texto-blanco(href="https://youtu.be/aYxG1ASrYKo" target="_blank")
                       span Ver más
                       i.fas.fa-link
 
@@ -192,13 +192,13 @@
                       br
                       | Retail Marketing - Análisis Benetton UDEP. 
                   .col-sm-auto
-                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=zsqemeClPqQ" target="_blank")
+                    a.boton.color-acento-contenido.texto-blanco(href="https://youtu.be/CkBc6q5oebk" target="_blank")
                       span Ver más
                       i.fas.fa-link
 
       Separador
 
-      #t2-1.titulo-segundo
+      #t2-3.titulo-segundo
         h2 2.3 Diferenciación y conceptualización de las marcas: casos exitosos de marcas y pirámide de la moda
 
 
@@ -227,9 +227,9 @@
             p.eb.mb-0 Los niveles del mercado de la moda se representan en un esquema piramidal, en el nivel más alto se ubica la alta costura que confecciona prendas sobre medida, es única, individual, se dirige a un segmento de clientes exclusivos con un número limitado de piezas que, por lo general, luego pasan a ser parte de museos. Son las que dan la información a las marcas de diseñador o marcas de lujo que a su vez se convierten en la herramienta de trabajo para el nivel de formato más comercial creado para distribuir grandes cantidades producidas a nivel industrial, hasta llegar a las grandes masas que consumen moda.
 
       .text-center.mb-5
-        a.anexo.d-inline-block(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.d-inline-block(:href="obtenerLink('/downloads/Anexo_D_U2_Los niveles_del_mercado_de_moda.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-ppt.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p 
               b Anexo. 
@@ -263,7 +263,7 @@
 
       Separador
 
-      #t2-1.titulo-segundo
+      #t2-4.titulo-segundo
         h2 2.4 Canales de distribución
 
       p.mb-0.eb En la 
@@ -456,7 +456,7 @@
                       br
                       | Nueva colección GEF.
                   .col-sm-auto
-                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=zsqemeClPqQ" target="_blank")
+                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=NIE2ryEVqaE" target="_blank")
                       span Ver más
                       i.fas.fa-link
 
@@ -472,7 +472,7 @@
                       br
                       | Inditex · Logística.
                   .col-sm-auto
-                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=zsqemeClPqQ" target="_blank")
+                    a.boton.color-acento-contenido.texto-blanco(href="https://youtu.be/vxwj4AYN_Ao" target="_blank")
                       span Ver más
                       i.fas.fa-link
 
@@ -490,13 +490,13 @@
                       br
                       | Vídeo Corporativo 2018
                   .col-sm-auto
-                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=zsqemeClPqQ" target="_blank")
+                    a.boton.color-acento-contenido.texto-blanco(href="https://youtu.be/Ni020CV1uqM" target="_blank")
                       span Ver más
                       i.fas.fa-link
 
       Separador
 
-      #t2-1.titulo-segundo
+      #t2-5.titulo-segundo
         h2 2.5 Registro de marca: normativa y definiciones
 
       .row.justify-content-center.align-items-stretch.mb-5
@@ -582,7 +582,7 @@
       p.mb-5.text-center Este trámite se realiza ante el SIC, entidad que se encarga de verificar y asignar el respectivo registro.
 
       .text-center.mb-5
-        a.anexo.d-inline-block(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.d-inline-block(:href="obtenerLink('/downloads/Anexo_G_U2_Registro_de_Marcas_en_Colombia.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -603,7 +603,7 @@
                       br
                       | Paso a paso para el registro de una marca. 
                   .col-sm-auto
-                    a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=zsqemeClPqQ" target="_blank")
+                    a.boton.color-acento-contenido.texto-blanco(href="https://youtu.be/RKcaJB0mNqY" target="_blank")
                       span Ver más
                       i.fas.fa-link
 
