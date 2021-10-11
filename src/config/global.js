@@ -1,9 +1,8 @@
 export default {
   global: {
-    componenteFormativo:
-      'Componente Formativo con un nombre extremadamente largo y extenso',
+    componenteFormativo: 'Fundamentos del mercado III',
     descripcionCurso:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis vestibulum quam bibendum varius.<br/><br/>Quisque pretium at nulla sit amet placerat. Vestibulum consequat suscipit accumsan. Proin pharetra congue enim et tempus. Sed sodales dui volutpat, placerat tellus accumsan, semper est. Phasellus nec lorem elementum, mattis quam eget, vestibulum nibh. Sed.',
+      'Con el abordaje de este componente formativo, el aprendiz tendrá la oportunidad de conocer los fundamentos relacionados a la importancia de la comunicación enfocada al mercado de la moda, así como todos los elementos implicados en el desarrollo del ADN de la marca.<br><br>Estos dos elementos son muy importantes al momento de analizar las posibilidades de su proyecto y la posterior planeación que implica el avance de la formación.',
     imagenBannerPrincipal: require('@/assets/curso/inicio.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo.jpg'),
   },
