@@ -8,7 +8,7 @@
       .titulo-principal
         .titulo-principal__numero
           span 1
-        h1 Investigación de la moda
+        h1 Comunicación de la moda
 
       figure.tarjeta.mb-5
         img(src='@/assets/curso/t1-01.jpg')
@@ -36,7 +36,7 @@
                 b.me-2
                   i.fas.fa-check
                 p.mb-0 Determinar si los nuevos desarrollos realmente cumplen con las expectativas, necesidades y deseos del público objetivo, 
-                  b ¿si es lo que esperan?
+                  b ¿sí es lo que esperan?
 
               li.eb
                 b.me-2
@@ -54,7 +54,7 @@
         | Dependiendo del segmento al que va dirigido, se definen los canales o medios a utilizar como radio, prensa, televisión, redes sociales, entre otros. 
       p.eb Es responsabilidad de la comunicación 
         b cuidar que el mensaje sea claro y preciso 
-        |para el público objetivo, sin generar distorsiones o malas interpretaciones; es indispensable que, dependiendo del medio de comunicación, la persona encargada brinde la información necesaria para una buena divulgación, bien sea utilizando estrategias como pasarelas, show room, embajadores, exhibición u otra forma de publicidad diferente. La base del 
+        |para el público objetivo, sin generar distorsiones o malas interpretaciones; es indispensable que, dependiendo del medio de comunicación, la persona encargada brinde la información necesaria para una buena divulgación, bien sea utilizando estrategias como pasarelas, <em>show room</em>, embajadores, exhibición u otra forma de publicidad diferente. La base del 
         b éxito 
         | en el plan de comunicación, radica en la 
         b coherencia 
@@ -74,11 +74,11 @@
             p.eb.mb-0 Es parte del ADN del ser humano entablar una relación con 
               b el entorno como un todo 
               | con el que tiene contacto y es precisamente desde esta óptica que se crean gustos, preferencias, necesidades y aficiones. Cuando surgen 
-              b diferencias culturales
-              | , sociales y económicas, aparecen características marcadas por el tipo de actividades que desarrolla el hombre, los espacios que habita y lugares que frecuenta, definiendo un 
+              b diferencias culturales, sociales y económicas, 
+              | aparecen características marcadas por el tipo de actividades que desarrolla el hombre, los espacios que habita y lugares que frecuenta, definiendo un 
               b estilo de vida 
               | que viene cargado de elementos diferenciadores, enmarcados en la época histórica que vive. En el vestuario, por ejemplo, los 
-              b códigos vestimentales 
+              b códigos de vestimenta 
               | juegan un 
               b papel protagónico 
               | al determinar la transformación y comunicación de las diferentes indumentarias.
@@ -90,7 +90,7 @@
         )
         .col-md-6.p-0
           .p-4.p-md-5.tarjeta--azul
-            p.eb La globalización ha permitido cruzar fronteras, principalmente culturales, es ahí donde la comunicación de la moda interviene, convirtiendo lo local en global, logrando la participación de la sociedad en mercados nacionales e internacionales sin necesidad de desplazamiento físico, si no través de tecnologías de la información y comunicación.
+            p.eb La globalización ha permitido cruzar fronteras, principalmente culturales, es ahí donde la comunicación de la moda interviene, convirtiendo lo local en global, logrando la participación de la sociedad en mercados nacionales e internacionales sin necesidad de desplazamiento físico, sino través de tecnologías de la información y comunicación.
             p.eb.mb-0 La evolución de los medios de comunicación y de transporte ha determinado el flujo de todo tipo de información, incluyendo la moda; hoy con los desarrollos tecnológicos la información fluye a altas velocidades, el pensamiento cambió, la actitud, el comportamiento, las actividades, la participación en eventos públicos y sociales pasó de ser exclusiva a cotidiana. Se está viviendo una aproximación a la democratización 
               b ¡todo comunica!
               | , las personas conocen lo que existe, seleccionan y toman decisiones.
@@ -100,7 +100,7 @@
 
       .row.justify-content-center
         .col-md-8
-          .tarjeta.color-primario.p-3
+          .tarjeta.color-secundario.p-3
             .row.justify-content-around.align-items-center
               .col-3.col-sm-2
                 img(src='@/assets/curso/t1-12.svg' style="max-width: 80px")
@@ -145,15 +145,16 @@
             b estrategia comunicativa 
             | que tenga planeada y desarrollada, desde su promoción con el 
             b 
-              i visual merchandisig
-            |, material p.o.p y exhibición; todo el sistema debe ser coherente y fiel a la marca y a sus usuarios.
+              i visual merchandising
+            |, material P.O.P. y exhibición; todo el sistema debe ser coherente y fiel a la marca y a sus usuarios.
 
-          a.anexo.d-inline-block(href="https://www.esic.edu/rethink/management/la-investigacion-analisis-tendencias-nueva-aliada-la-estrategia" target="_blank")
+          a.anexo.d-inline-block(href="https://www.emagister.com/blog/la-vestimenta-poderosa-herramienta-de-comunicacion-personal/" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
               p.text-small
-                b Enlace web. López, E. (s.f.). 
+                b Enlace web. López, E. (s.f.).
+                br
                 |“La vestimenta: poderosa herramienta de comunicación personal”.
         
         .col-md.tarjeta.solo-fondo.arr(:style="{'background-image' : `url(${require('@/assets/curso/t1-05.jpg')})`}")
@@ -197,9 +198,9 @@
       .row.align-items-stretch.m-0.mb-5.tarjeta
         .col-md-6.p-0
           .p-4.p-md-5.tarjeta--azul
-            p.eb Las actividades que cada persona desarrolla bien sea familiares, laborales, culturales influyen en el código que transmite el 
+            p.eb Las actividades que cada persona desarrolla bien sea familiares, laborales, culturales, influyen en el código que transmite el 
               b 
-                i outfit
+                em outfit
               | , el cual se debe usar de una forma específica teniendo presente que la moda hoy es más 
               b permisiva y flexible 
               | en diferentes espacios sociales, es el caso por ejemplo del índigo, que, utilizado en diferentes prendas y momentos, es aceptado. Las marcas de vestuario generan toda una 
@@ -216,7 +217,7 @@
 
       .row.justify-content-center
         .col-md-6.mb-4.mb-md-0
-          .tarjeta.color-primario.p-3
+          .tarjeta.color-secundario.p-3
             .row.justify-content-around.align-items-center
               .col-3.col-sm-2
                 img(src='@/assets/curso/t1-12.svg' style="max-width: 80px")
@@ -230,7 +231,7 @@
                       i.fas.fa-link
 
         .col-md-6
-          .tarjeta.color-primario.p-3
+          .tarjeta.color-secundario.p-3
             .row.justify-content-around.align-items-center
               .col-3.col-sm-2
                 img(src='@/assets/curso/t1-12.svg' style="max-width: 80px")
@@ -294,7 +295,7 @@
               b reacciones
               | , de acuerdo a la tonalidad del color, la textura del material en el que está elaborado, el tipo de silueta y la estructura de la prenda; las sensaciones varían dependiendo del lugar del cuerpo donde esté ubicado el color, el cual puede 
               b transmitir sensaciones 
-              | como estrechez, volumen, profundidad, altura, delgadez, entre otras,
+              | como estrechez, volumen, profundidad, altura, delgadez, entre otras.
 
       .row.align-items-stretch
         .col-md-6.p-5.solo-fondo.arr(
@@ -321,7 +322,7 @@
         .col-lg-6
           .cajon-b.color-primario.p-4
             p La expresión cultural de la moda se ve reflejada tanto en los individuos como en su entorno, llámese este, hábitat, comunidad, sector, ciudad, región y país; para esto se hace necesario investigar las diferentes culturas, teniendo presente, que la moda no es solo prendas de vestir, es todo lo que rodea al hombre en su diario vivir en sociedad: música, ferias, deporte, arte, arquitectura, entre otras, generando rituales que se ponen de moda en las grandes ciudades. 
-            p.mb-0 Los más influyentes son los géneros musicales, los cuales han transformado espacios alrededor de la diversión donde aparecen los conciertos masivos que dependiendo del tipo de música y el público al cual están dirigidos, han ido creando unos códigos vestimentales bien particulares, el reguetón, rock, música popular, tecnocarrilera, entre otros. Estos se han articulado a los grandes eventos como ferias regionales y carnavales que a través del tiempo se volvieron habituales y parte de las celebraciones que cada año se repiten de una forma diferente, utilizando nuevas tecnologías y generando nuevos lugares de socialización. La cultura hace parte fundamental de estos ritos, es habitual el uso de vestuario, accesorios y maquillaje muy ligados a la región; se puede decir que la religión juega un papel importante de estos rituales que a través de la historia van pasando de generación en generación.
+            p.mb-0 Los más influyentes son los géneros musicales, los cuales han transformado espacios alrededor de la diversión donde aparecen los conciertos masivos que dependiendo del tipo de música y el público al cual están dirigidos, han ido creando unos códigos vestimentales bien particulares, el reguetón, <em>rock</em>, música popular, tecnocarrilera, entre otros. Estos se han articulado a los grandes eventos como ferias regionales y carnavales que a través del tiempo se volvieron habituales y parte de las celebraciones que cada año se repiten de una forma diferente, utilizando nuevas tecnologías y generando nuevos lugares de socialización. La cultura hace parte fundamental de estos ritos, es habitual el uso de vestuario, accesorios y maquillaje muy ligados a la región; se puede decir que la religión juega un papel importante en estos rituales que a través de la historia van pasando de generación en generación.
 
         .col-lg-6.solo-fondo.tarjeta(
           :style="{'background-image' : `url(${require('@/assets/curso/t1-19.jpg')})`}"
@@ -333,8 +334,8 @@
         )
         .col-lg-6
           .ps-4
-            p La arquitectura interviene el entorno, la cual dadas las nuevas tecnologías ha transformado las ciudades en metrópolis, con sus inmensas construcciones que se caracterizan por una estética ciber espacial muy llamativa que cada vez evoluciona más y ofrece a los usuarios más comodidades, en esto es muy importante resaltar la intervención y participación de la ingeniería, la tecnología y el uso de las nuevas comunicaciones. El mobiliario también hace parte de esta transformación y de los elementos que la componen para su uso y decoración, forman parte integral de tendencias adaptadas al espacio y al lugar, la generación de electrodomésticos, inmuebles e implementos para el hogar cambian constantemente ofreciendo nuevos conceptos para nuevos espacios. 
-            p.mb-0 El diseño gráfico, graffiti, skatepark, parkour, entre otros, cada vez ganan más protagonismo interviniendo grandes espacios, contando historias, siendo más contestatarios e irreverentes con el mundo que los rodea.
+            p La arquitectura interviene el entorno, la cual dadas las nuevas tecnologías ha transformado las ciudades en metrópolis, con sus inmensas construcciones que se caracterizan por una estética ciberespacial muy llamativa que cada vez evoluciona más y ofrece a los usuarios más comodidades, en esto es muy importante resaltar la intervención y participación de la ingeniería, la tecnología y el uso de las nuevas comunicaciones. El mobiliario también hace parte de esta transformación y de los elementos que la componen para su uso y decoración, forman parte integral de tendencias adaptadas al espacio y al lugar, la generación de electrodomésticos, inmuebles e implementos para el hogar cambian constantemente ofreciendo nuevos conceptos para nuevos espacios. 
+            p.mb-0 El diseño gráfico, <em>graffiti, skatepark, parkour</em>, entre otros, cada vez ganan más protagonismo interviniendo grandes espacios, contando historias, siendo más contestatarios e irreverentes con el mundo que los rodea.
 
       p.mb-0 La evolución de la antropometría y la ergonomía han permitido que tanto el vestuario, el mobiliario, la arquitectura y el transporte sean protagonistas de todo un engranaje de evolución, enfocado en la transformación estética del individuo y su entorno; los que presentan nuevas propuestas trabajadas desde la premisa de brindarle al usuario más comodidad, confort y utilidad, es aquí donde cada elemento cobra importancia en la comunicación y expresión cultural de la moda.
 
@@ -345,14 +346,14 @@
 
       .row.justify-content-center.mb-5
         .col-lg-6.mb-5.mb-lg-0
-          p Como dice el popular refrán 
+          p Como dice el popular refrán:
           .bloque-texto-d.color--azul.p-4
             .bloque-texto-d__texto.mb-2.text-center
               i.fas.fa-quote-left
-              h3 Ni tanto que queme al santo, ni tan poco que no lo alumbre
+              h3 Ni tanto que queme al santo, ni tan poco que no lo alumbre.
               i.fas.fa-quote-right
       
-      p.eb Para el buen desarrollo de este tema se deben tener en cuenta varios aspectos que en el confluyen; en principio se tienen que abordar 
+      p.eb Para el buen desarrollo de este tema se deben tener en cuenta varios aspectos que en él confluyen; en principio se tienen que abordar 
         b las personas como principales protagonistas
         | , a las cuales les corresponde tomar las decisión final en cuanto a la elección de cómo se presentan en su vida pública y privada, la cual viene cargada de un sin número de simbolismos que inician en su propia 
         b personalidad 
@@ -366,7 +367,9 @@
       .row.justify-content-center.mb-5
         .col-lg-8
           .cajon.color-acento-contenido.p-5
-            p.eb.mb-0 La búsqueda del concepto belleza ha sido la herramienta utilizada por el marketing para generar un espíritu de necesidades insatisfechas al plantear 
+            p.eb.mb-0 La búsqueda del concepto belleza ha sido la herramienta utilizada por el 
+              em marketing 
+              | para generar un espíritu de necesidades insatisfechas al plantear 
               b cánones de belleza 
               | casi inalcanzables, donde las marcas supuestamente crean las soluciones a los problemas que se cree tener; es aquí donde las personas tienen que 
               b tomar conciencia respecto a su propio ser
@@ -381,11 +384,15 @@
                 p.eb 
                   b El vestuario comunica de una manera radical
                   | , la intención, la actitud y el estado de ánimo de las personas, es bien importante entender que el momento histórico que está viviendo la persona bien sea desde lo laboral, familiar, económico, social, afectivo o de salud, influye directamente en la forma como se ve y percibe a sí misma y cómo se proyecta ante los demás. 
-                p.eb.mb-0 Ahora bien, 
+                p.eb Ahora bien, 
                   b investigar las preferencias 
-                  | es determinante para que el outfit tenga su 
+                  | es determinante para que el 
+                  em outfit 
+                  | tenga su 
                   b impacto comunicativo positivo
-                  | , por lo que no se debe obviar que este puede quedarse corto o exagerarse.
+                  | , por lo que no se debe obviar que este puede quedarse corto o exagerarse. 
+                  b La percepción del mundo es la que genera los gustos y preferencias, pero es el individuo quien resuelve cómo se presenta en público 
+                  | influyendo en esta decisión su entorno, la familia, la sociedad, los amigos, las relaciones y por supuesto… las tendencias.
 
             .col-md-6.p-5.solo-fondo.arr(
               :style="{'background-image' : `url(${require('@/assets/curso/t1-21.jpg')})`}"
@@ -395,10 +402,7 @@
         .col-lg-10
           .row.align-items-stretch.tarjeta
             .col-md-6.p-0
-              .p-4.p-md-5.color-primario--claro
-                p.eb 
-                  b La percepción del mundo es la que genera los gustos y preferencias, pero es el individuo quien resuelve cómo se presenta en público 
-                  | influyendo en esta decisión su entorno, la familia, la sociedad, los amigos, las relaciones y por supuesto… las tendencias.
+              .p-4.p-md-5.color-primario--claro.h-100
                 p.eb.mb-0 Definir lo que es bonito o feo es difícil, porque la estética es individual, lo bello cambia según la percepción; es decir, el mundo se ve, de acuerdo a la experiencia, la imagen es una decisión propia.
 
             .col-md-6.p-5.solo-fondo.arr(
@@ -420,7 +424,7 @@
               b el hombre fue desarrollando y sigue haciendo su vestuario con base en las necesidades que el momento le exige
               | , es claro anotar que adicional a esto, se apoya en las actividades, entorno social, económico y creencias las cuales le dan comienzo a un sin número de 
               b códigos vestimentales 
-              | enmarcados en la cultura, la geografía, el clima y el nivel socioeconómico que lo sostiene en  sociedad, adicional a esto y por motivos relacionados al entorno donde habita y a sus experiencias crea su propio estilo; es la forma como cada uno desarrolla una características de cómo llevar las cosas o portarlas, 
+              | enmarcados en la cultura, la geografía, el clima y el nivel socioeconómico que lo sostiene en  sociedad, adicional a esto y por motivos relacionados al entorno donde habita y a sus experiencias crea su propio estilo; es la forma como cada uno desarrolla una característica de cómo llevar las cosas o portarlas, 
               b el estilo se ve influenciado en la mayoría de los casos por el espíritu del momento: 
               | necesidades, eventos, sucesos y tendencias que se van poniendo de moda permeando a toda la sociedad.
 
@@ -436,13 +440,14 @@
           .linea-tiempo-d
             .linea-tiempo-d__item.row
               .col-auto.linea-tiempo-d__item__col-number
-                .linea-tiempo-d__item__number.tarjeta.color-primario
-                  span 1
+                .linea-tiempo-d__item__number.tarjeta.color-secundario
+                  span
+                    b 1
                 .linea-tiempo-d__item__dots
               .col.pb-3
                 .linea-tiempo-d__item__content.tarjeta.tarjeta--azul
                   .linea-tiempo-d__item__content__slot.p-3
-                    p.mb-0.eb.text-small Las proporciones en el vestuario son la forma como el equilibrio estético es controlado o por el contrario se desborda en exageraciones, en algunos momentos son las propias 
+                    p.mb-0.eb Las proporciones en el vestuario son la forma como el equilibrio estético es controlado o por el contrario se desborda en exageraciones, en algunos momentos son las propias 
                       b tendencias 
                       | las que 
                       b van dirigiendo el mercado 
@@ -450,27 +455,29 @@
 
             .linea-tiempo-d__item.row
               .col-auto.linea-tiempo-d__item__col-number
-                .linea-tiempo-d__item__number.tarjeta.color-primario
-                  span 2
+                .linea-tiempo-d__item__number.tarjeta.color-secundario
+                  span
+                    b 2
                 .linea-tiempo-d__item__dots
               .col.pb-3
                 .linea-tiempo-d__item__content.tarjeta.tarjeta--azul
                   .linea-tiempo-d__item__content__slot.p-3
-                    p.mb-0.eb.text-small Las fuerzas armadas camuflan muchas de las características de sus miembros (perfil militar) por medio de los 
+                    p.mb-0.eb Las fuerzas armadas camuflan muchas de las características de sus miembros (perfil militar) por medio de los 
                       b uniformes
                       | , las empresas lo utilizan para generar un ADN de identidad en sus empleados, también para ser reconocida socialmente, hábitos religiosos, deportes, escuelas, personal médico y otros, cada uno tiene su propio uniforme, 
                       b las sociedades también van generando uniformes
-                      | , es el caso del Jeans y camiseta T- Shirts, dos piezas fundamentales en el ropero de todas las personas a cualquier edad y que en este momento están presentes casi que en todo lugar.
+                      | , es el caso del jean y camiseta <em>T-shirt</em>, dos piezas fundamentales en el ropero de todas las personas a cualquier edad y que en este momento están presentes casi que en todo lugar.
 
             .linea-tiempo-d__item.row
               .col-auto.linea-tiempo-d__item__col-number
-                .linea-tiempo-d__item__number.tarjeta.color-primario
-                  span 3
+                .linea-tiempo-d__item__number.tarjeta.color-secundario
+                  span
+                    b 3
                 .linea-tiempo-d__item__dots
               .col.pb-3
                 .linea-tiempo-d__item__content.tarjeta.tarjeta--azul
                   .linea-tiempo-d__item__content__slot.p-3
-                    p.mb-0.eb.text-small En este tiempo la 
+                    p.mb-0.eb En este tiempo la 
                       b identidad de género 
                       | es un tema muy cuestionado sobre todo en cuanto a lo que tiene que ver con moda, 
                       b cada vez es más notoria la poca diferencia que hoy en día se da respecto al color, estampados, siluetas, texturas y complementos que cada género porta en su cuerpo
@@ -479,13 +486,14 @@
 
             .linea-tiempo-d__item.row
               .col-auto.linea-tiempo-d__item__col-number
-                .linea-tiempo-d__item__number.tarjeta.color-primario
-                  span 4
+                .linea-tiempo-d__item__number.tarjeta.color-secundario
+                  span
+                    b 4
                 .linea-tiempo-d__item__dots
               .col.pb-3
                 .linea-tiempo-d__item__content.tarjeta.tarjeta--azul
                   .linea-tiempo-d__item__content__slot.p-3
-                    p.mb-0.eb.text-small 
+                    p.mb-0.eb 
                       b La elocuencia y el mal gusto 
                       | son temas difíciles de abordar, ya que pueden correr el riesgo a entablar polémicas, al emitir juicios de valor en temas que tienen más que ver con la visión del mundo, el entorno donde vive y la forma como cada uno construyó su historia, su personalidad y más allá se habla de los propios gustos y preferencias. El buen o mal gusto está dado desde la comparación que se hace del otro respecto a su propio gusto, cosa que nunca tiene que ser igual, en ese caso 
                       b siempre se corre el riesgo de que quien tiene mal gusto sea la misma persona.
@@ -493,49 +501,52 @@
 
             .linea-tiempo-d__item.row
               .col-auto.linea-tiempo-d__item__col-number
-                .linea-tiempo-d__item__number.tarjeta.color-primario
-                  span 5
+                .linea-tiempo-d__item__number.tarjeta.color-secundario
+                  span
+                    b 5
                 .linea-tiempo-d__item__dots
               .col.pb-3
                 .linea-tiempo-d__item__content.tarjeta.tarjeta--azul
                   .linea-tiempo-d__item__content__slot.p-3
-                    p.mb-0.eb.text-small Como bien dice el refrán popular “El hábito sí hace al monje”, es muy importante entender que 
+                    p.mb-0.eb Como bien dice el refrán popular: “El hábito sí hace al monje”, es muy importante entender que 
                       b la globalización y la comunicación convierten a las personas en habitantes del mundo
                       | , lo local se va perdiendo o se convierte en una herramienta utilizada en otro lugar, de tal forma que la cultura se interpreta incluso de formas muy distintitas, en muchos casos por desconocimiento, se irrespeta, es una cuestión de interpretación.
 
 
             .linea-tiempo-d__item.row
               .col-auto.linea-tiempo-d__item__col-number
-                .linea-tiempo-d__item__number.tarjeta.color-primario
-                  span 6
+                .linea-tiempo-d__item__number.tarjeta.color-secundario
+                  span
+                    b 6
                 .linea-tiempo-d__item__dots
               .col.pb-3
                 .linea-tiempo-d__item__content.tarjeta.tarjeta--azul
                   .linea-tiempo-d__item__content__slot.p-3
-                    p.mb-0.eb.text-small Ropas mentirosas, disfraces y ornamentos forman parte del mundo fantástico utilizado por diseñadores y marcas para crear ilusiones en torno a la apariencia de las personas, siempre 
+                    p.mb-0.eb Ropas mentirosas, disfraces y ornamentos forman parte del mundo fantástico utilizado por diseñadores y marcas para crear ilusiones en torno a la apariencia de las personas, siempre 
                       b se espera que cada colección contenga en su esencia 
-                      | estos elementos que incitan a vivir y sentir diferente, en las artes escénicas estos elementos forman parte del desarrollo creativo en vestuario capaz de transportar al espectador a ese momento reflejado en una escena, obra, película o documental; son el mejor complemento en el momento de interpretar o narrar una historia real o de fantasía.
+                      | estos elementos que incitan a vivir y sentir diferente, en las artes escénicas estos elementos forman parte del desarrollo creativo en vestuario, capaz de transportar al espectador a ese momento reflejado en una escena, obra, película o documental; son el mejor complemento en el momento de interpretar o narrar una historia real o de fantasía.
 
 
             .linea-tiempo-d__item.row
               .col-auto.linea-tiempo-d__item__col-number
-                .linea-tiempo-d__item__number.tarjeta.color-primario
-                  span 7
+                .linea-tiempo-d__item__number.tarjeta.color-secundario
+                  span
+                    b 7
                 .linea-tiempo-d__item__dots
               .col.pb-3
                 .linea-tiempo-d__item__content.tarjeta.tarjeta--azul
                   .linea-tiempo-d__item__content__slot.p-3
-                    p.mb-0.eb.text-small 
+                    p.mb-0.eb 
                       b El vestido para el éxito 
                       | está muy 
                       b ligado a la actitud 
-                      | que cada uno le adicione a esa prenda, que puede ser llevada a niveles inimaginables, solamente la seguridad, satisfacción, movilidad que el portador sea capaz de generar desde el momento que la viste, obviamente una buena práctica de estética y coherencia ayuda, pero no es del caso dejar todo a la actitud, también hay que 
+                      | que cada uno le adicione a esa prenda, que puede ser llevada a niveles inimaginables, solamente la seguridad, satisfacción, movilidad, que el portador sea capaz de generar desde el momento que la viste, obviamente una buena práctica de estética y coherencia ayuda, pero no es del caso dejar todo a la actitud, también hay que 
                       b conocer del tema y conocerse 
-                      | en la dimensiones física, mental y actitudinal.
+                      | en las dimensiones física, mental y actitudinal.
 
       .row.justify-content-center
         .col-md-6.mb-4.mb-md-0
-          .tarjeta.color-primario.p-3.h-100
+          .tarjeta.color-secundario.p-3.h-100
             .row.justify-content-around.align-items-center.h-100
               .col-3.col-sm-2
                 img(src='@/assets/curso/t1-12.svg' style="max-width: 80px")
@@ -549,7 +560,7 @@
                       i.fas.fa-link
 
         .col-md-6
-          .tarjeta.color-primario.p-3.h-100
+          .tarjeta.color-secundario.p-3.h-100
             .row.justify-content-around.align-items-center.h-100
               .col-3.col-sm-2
                 img(src='@/assets/curso/t1-12.svg' style="max-width: 80px")
@@ -578,7 +589,7 @@
         b El color 
         | como el principal 
         b agente motivador
-        | , ínsita a elegir aquella prenda que se ve al pasar por una vitrina o entrar a una tienda, luego sigue el reflejo de lo que se ve al usarla o cómo se cree que se ven, es allí donde se da la 
+        | , íncita a elegir aquella prenda que se ve al pasar por una vitrina o entrar a una tienda, luego sigue el reflejo de lo que se ve al usarla o como se cree que se ven, es allí donde se da la 
         b conexión 
         | del cerebro con lo que se porta y lo atractivos que pueden llegar a verse. 
 
@@ -589,7 +600,9 @@
               b El vestuario complementa la personalidad y la actividad a desarrollar
               | , pero, sobre todo, la intención que se genera cuando visualmente se presenta en público; ser sensual y provocador se convierte en el objetivo al resaltar u ocultar la imagen, si esta se trabaja de forma apropiada, los resultados pueden favorecer al utilizar bien las herramientas que a través del tiempo han sido construidas y que interpretan 
               b signos del vestido combinados con la expresión corporal
-              | . La magia del vestir es maravillosa, ya que puede transformarse de un día para otro con el simple hecho de cambiar el color, la textura, la silueta el ajuste o el volumen de los accesorios que son usados en un outfit; también se pueden producir efectos en las personas que evoquen suavidad, ternura, debilidad, romanticismo, decisión, seguridad, sensualidad y provocación. 
+              | . La magia del vestir es maravillosa, ya que puede transformarse de un día para otro con el simple hecho de cambiar el color, la textura, la silueta, el ajuste o el volumen de los accesorios que son usados en un 
+              em outfit
+              | ; también se pueden producir efectos en las personas que evoquen suavidad, ternura, debilidad, romanticismo, decisión, seguridad, sensualidad y provocación. 
         .col-md-6.p-5.solo-fondo.arr(
           :style="{'background-image' : `url(${require('@/assets/curso/t1-26.jpg')})`}"
         )
@@ -604,7 +617,7 @@
         b La ropa neurótica 
         | que se caracteriza por los 
         b excesos en el manejo del color
-        | , recarga de accesorios, mucho brillo, siluetas muy desestructuradas o desorganizadas, producen hacia la persona que la porta, rechazo, descontrol y desequilibrio. 
+        | , recargada de accesorios, mucho brillo, siluetas muy desestructuradas o desorganizadas, producen hacia la persona que la porta, rechazo, descontrol y desequilibrio. 
 
       .row.justify-content-center
         .col-lg-8
@@ -619,9 +632,9 @@
       .row.justify-content-center.mb-5
         .col-lg-8
           AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta color-primario--claro")
-            .row(titulo="concepto o inspiración")
+            .row(titulo="Concepto o inspiración")
               .col-md-6.mb-4.mb-md-0
-                p.eb En el Montaje de una colección de moda entran en juego varios saberes, 
+                p.eb En el montaje de una colección de moda entran en juego varios saberes, 
                   b el primero y definitivo es el concepto o inspiración
                   | , el cual brindará las herramientas sensoriales a la colección; con este se definen otros elementos de igual importancia como colores, texturas, formas, siluetas, accesorios, complementos y sensaciones; la forma como todo esto se desarrolle es crucial, ya que 
                   b la coherencia 
@@ -631,7 +644,7 @@
                 figure.tarjeta
                   img(src='@/assets/curso/t1-27.jpg')
 
-            .row(titulo="definir la tonalidad")
+            .row(titulo="Definir la tonalidad")
               .col-md-6.mb-4.mb-md-0
                 p.eb Es igual de determinante para la colección, 
                   b definir la tonalidad 
@@ -651,17 +664,19 @@
                 figure.tarjeta
                   img(src='@/assets/curso/t1-28.jpg')
 
-            .row(titulo="croquis de colección")
+            .row(titulo="Croquis de colección")
               .col-md-6.mb-4.mb-md-0
                 p.eb El paso a seguir es el llamado 
                   b croquis de colección 
                   | donde se estructuran la 
                   b cantidad de prendas 
-                  | como pantalones, blusas, faldas y otras, que la componen en su totalidad, cada una debe de ser 
+                  | como pantalones, blusas, faldas y otras, que la componen en su totalidad, cada una debe ser 
                   b tan diferente 
                   | a la anterior en la medida de lo posible, 
                   b pero sin perder el hilo 
-                  | conductor que el concepto arrojó. El universo de vestuario al que está dirigida la colección, define las características de ocasión de uso: casual, formal, informal y sport, entre otros, que 
+                  | conductor que el concepto arrojó. El universo de vestuario al que está dirigida la colección, define las características de ocasión de uso: casual, formal, informal y 
+                  em sport
+                  | , entre otros, que 
                   b tienen definidos códigos y características particulares. 
 
         
@@ -680,14 +695,14 @@
       
       .row.justify-content-center
         .col-md-6
-          .tarjeta.color-primario.p-3
+          .tarjeta.color-secundario.p-3
             .row.justify-content-around.align-items-center
               .col-3.col-sm-2
                 img(src='@/assets/curso/t1-12.svg' style="max-width: 80px")
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    p.mb-0.text-center.text-white Como hacer una colección de moda – Anana
+                    p.mb-0.text-center.text-white Cómo hacer una colección de moda – Ananá
                   .col-sm-auto
                     a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=5WgxbULQFC8&t=6s" target="_blank")
                       span Ver más
@@ -696,7 +711,7 @@
       Separador
 
       #t1-10.titulo-segundo
-        h2 1.10 Canales de comunicación de la moda: medios digitales, impresos, audiovisual, material pop
+        h2 1.10 Canales de comunicación de la moda: medios digitales, impresos, audiovisual, material P.O.P.
 
       .row.justify-content-center.mb-5
         .col-lg-6.mb-5.mb-lg-0
@@ -705,12 +720,12 @@
               i.fas.fa-quote-left
               h3 La sociedad habla. Habla diariamente en sus vestidos, en sus ropas, en sus trajes. Quien no sabe escucharla hablar en estos síntomas del habla, la atraviesa a ciegas.
                 br
-                | No la conoce. No la modifica
+                | No la conoce. No la modifica.
               i.fas.fa-quote-right
             .bloque-texto-d__autor 
-              p.mb-0 como lo mencionó Eco U. 
+              p.mb-0 Como lo mencionó Eco U. 
                 br
-                | (Chicas Guapas, blog de moda y belleza, 2016) 
+                | (Chicas Guapas, blog de moda y belleza, 2016).
 
       .row.justify-content-center.align-items-stretch.mb-5
         .col-lg-6
@@ -727,10 +742,16 @@
               | ; para el logro de estos se recurre a los canales de comunicación que son los que cuentan las historias de una manera precisa, partiendo de la experiencia de los clientes reales, pero, sobre todo, los clientes potenciales. 
           
           .cajon.color-acento-contenido.p-5
-              p.eb.mb-0 Los canales offline, tradicionales y los online relativamente más recientes son las herramientas con las que se llevan de una manera contundente los mensajes del marketing a la mente de los consumidores. Posicionar una marca en el mercado y sobre todo mantenerla vigente es una tarea que necesita el respaldo de la parte comercial y administrativa de la empresa.
+              p.eb.mb-0 Los canales 
+                em offline
+                | , tradicionales y los 
+                em online 
+                | relativamente más recientes son las herramientas con las que se llevan de una manera contundente los mensajes del 
+                em marketing 
+                | a la mente de los consumidores. Posicionar una marca en el mercado y sobre todo mantenerla vigente es una tarea que necesita el respaldo de la parte comercial y administrativa de la empresa.
 
         .col-lg-6.solo-fondo.tarjeta(
-          :style="{'background-image' : `url(${require('@/assets/curso/t1-19.jpg')})`}"
+          :style="{'background-image' : `url(${require('@/assets/curso/t1-30.jpg')})`}"
         )
 
       p.mb-0.eb
@@ -742,7 +763,8 @@
     .p-4.p-md-5.color-primario--claro
 
       p.mb-5.eb Los canales de comunicación tradicionales o 
-        b canales offline
+        b canales 
+          em offline
         | , están soportados por la publicidad en físico con las siguientes acciones:
 
       .row.justify-content-center.align-items-stretch
@@ -762,7 +784,9 @@
                 b La información de prensa 
                 | que consiste en utilización de 
                 b medios de comunicación tradicionales
-                | , televisión, radio, impresos como periódicos y revistas especializados que ayudan a 
+                | , televisión, radio, impresos como periódicos y revistas 
+                em especializados 
+                | que ayudan a 
                 b capturar perfiles de usuarios tradicionales 
                 | que no frecuentan el internet, pero son buenos consumidores.
             li 
@@ -779,9 +803,11 @@
                | , donde se dé a conocer la marca y sus proyectos, además interactuar con otras empresas que sean de beneficio y pueden convertirse en aliados estratégicos.
             li 
               i.fas.fa-atom
-              p.eb.mb-0 También se incluyen en estos otros 
+              p.eb.mb-0 También se incluyen otros 
                 b medios de hacer publicidad impresa 
-                | como los volantes, afiches, tarjetas, pendones, catálogos y desde luego los souvenirs o regalos, que ayudan a la 
+                | como los volantes, afiches, tarjetas, pendones, catálogos y desde luego los 
+                em souvenirs 
+                | o regalos, que ayudan a la 
                 b recordación de la marca 
                 | de manera directa.
 
@@ -792,7 +818,8 @@
     .p-4.p-md-5.caja-azul
 
       p.mb-5.eb Los canales de comunicación digital o 
-        b canales online
+        b canales 
+          em online
         | , hacen 
         b publicidad a través de internet
         | , estos son:
@@ -809,7 +836,7 @@
             li 
               i.fas.fa-atom
               p.eb.mb-0 
-                b El uso de Email: 
+                b El uso de e-mail: 
                 | mantiene activa la comunicación y las relaciones comerciales con todos los usuarios y conocedores de la marca, adicionalmente facilita la promoción de los negocios.
             li 
               i.fas.fa-atom
@@ -831,7 +858,7 @@
         )
 
     .p-4.p-md-5
-      p.mb-0.eb Toda estrategia comunicativa debe incorporar a su interior lo que tiene que ver con el material P.O.P (bolsas de empaque, etiquetas, catálogos, marquillas y otros), para poder proyectar y mantener una imagen que sea 
+      p.mb-0.eb Toda estrategia comunicativa debe incorporar a su interior lo que tiene que ver con el material P.O.P. (bolsas de empaque, etiquetas, catálogos, marquillas y otros), para poder proyectar y mantener una imagen que sea 
         b coherente con la promesa de valor de la marca 
         | y sobre todo que promueva los canales adecuados para llegar a sus clientes de una manera eficaz, con los mensajes específicos que ayuden a reconocer, seleccionar, promocionar, comprar y hablar bien de la marca y sus productos. 
 
@@ -845,12 +872,12 @@ export default {
     datosSlyder: [
       {
         titulo:
-          'Si traen puesta una prenda <b class="txt-white">blanca</b>, genera confianza, tranquilidad, transparencia',
+          'Si traen puesta una prenda <b class="txt-white">blanca</b>, genera confianza, tranquilidad, transparencia.',
         imagen: require('@/assets/curso/t1-10.jpg'),
       },
       {
         titulo:
-          'pero si de repente lo que se ve está en tonalidades de <b class="txt-yellow">amarillo</b>, en su transición hacia el <b class="txt-orange">naranja</b>, se percibe que es un ser de luz, alegre, divertido, apetitoso, positivo.',
+          'Pero si de repente lo que se ve está en tonalidades de <b class="txt-yellow">amarillo</b>, en su transición hacia el <b class="txt-orange">naranja</b>, se percibe que es un ser de luz, alegre, divertido, apetitoso, positivo.',
         imagen: require('@/assets/curso/t1-11.jpg'),
       },
       {
@@ -860,12 +887,12 @@ export default {
       },
       {
         titulo:
-          'El <b class="txt-green">verde</b> por su lado, es tan natural que se integra a la vida, al campo, al respeto por la naturaleza siendo muy terrenal',
+          'El <b class="txt-green">verde</b> por su lado, es tan natural que se integra a la vida, al campo, al respeto por la naturaleza siendo muy terrenal.',
         imagen: require('@/assets/curso/t1-13.jpg'),
       },
       {
         titulo:
-          'pero si este se transforma en <b class="txt-blue">azul</b>, se vuelve frío, serio, trabajador, responsable y muy ejecutivo.',
+          'Pero si este se transforma en <b class="txt-blue">azul</b>, se vuelve frío, serio, trabajador, responsable y muy ejecutivo.',
         imagen: require('@/assets/curso/t1-14.jpg'),
       },
       {

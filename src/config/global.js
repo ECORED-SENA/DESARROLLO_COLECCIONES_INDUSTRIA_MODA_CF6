@@ -17,19 +17,19 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Investigación de la moda',
+        titulo: 'Comunicación de la moda',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Introducción al tema sobre la comunicación de la moda.',
+            titulo: 'Introducción al tema sobre la comunicación de la moda',
             hash: 't1-1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Sistemas de comunicación y vestuario.',
+            titulo: 'Sistemas de comunicación y vestuario',
             hash: 't1-2',
           },
           {
@@ -83,7 +83,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '1.10',
             titulo:
-              'Canales de comunicación de la moda: medios digitales, impresos, audiovisual, material pop',
+              'Canales de comunicación de la moda: medios digitales, impresos, audiovisual, material P.O.P',
             hash: 't1-10',
           },
         ],
@@ -92,7 +92,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'ADN de la Marca',
+        titulo: 'ADN de la marca',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -106,7 +106,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '2.2',
             titulo:
-              'Imagen de la marca o branding: nombre y slogan de la marca, tipografía, fuente y paleta de color',
+              'Imagen de la marca o <em>branding</em>: nombre y <em>slogan</em> de la marca, tipografía, fuente y paleta de color',
             hash: 't2-2',
           },
           {
@@ -143,11 +143,11 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
+      // {
+      //   nombreRuta: 'complementario',
+      //   icono: 'far fa-folder-open',
+      //   titulo: 'Material complementario',
+      // },
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
@@ -168,22 +168,22 @@ export default {
   referencias: [
     {
       referencia:
-        '20th Century Studios España (2012, 28 de marzo). "Titanic 3d - jack y rose bailan en tercera clase ',
+        '20th Century Studios España. (2012, 28 de marzo). Titanic 3D - Jack y Rose bailan en tercera clase. [video] Youtube. ',
       link: 'https://youtu.be/pOSZrMOzq00',
     },
     {
       referencia:
-        'Acerte no Look - Dicas de Moda e Beleza. (2016). Looks de 100 años de moda. ',
+        'Acerte no Look - Dicas de Moda e Beleza. (2016). Looks de 100 anos de moda. [video] Youtube. ',
       link: 'https://www.youtube.com/watch?v=SzSfrKtZFOw',
     },
     {
       referencia:
-        'Ananá. (2019, 05 de mayo). Como hacer una colección de moda – Anana. ',
+        'Ananá. (2019, 05 de mayo). Como hacer una colección de moda – Anana. [video] Youtube. ',
       link: 'https://youtu.be/5WgxbULQFC8?t=6',
     },
     {
       referencia:
-        'Brand Inteligente. (2018, 25 de septiembre). Caso Apple: Logo, identidad y gestión de marca | Branding Ejemplos. ',
+        '<em>Brand</em> Inteligente. (2018, 25 de septiembre). Caso Apple: Logo, identidad y gestión de marca | <em>Branding</em> Ejemplos. [video] Youtube. ',
       link: 'https://youtu.be/tf_GDM7lxvs',
     },
     {
@@ -203,31 +203,36 @@ export default {
     },
     {
       referencia:
-        'Comerciales en Like México (2019, 29 de octubre). COCA-COLA - Un Mundo Sin Residuos. ',
+        'Comerciales en Like México (2019, 29 de octubre). COCA-COLA - Un Mundo Sin Residuos (2019). [video] Youtube. ',
       link: 'https://youtu.be/A_tC4H9KPzg',
     },
     {
       referencia:
-        'Comunicaciones Novaventa (2019, 12 de julio). Así es Novaventa | Vídeo Corporativo 2018. ',
+        'Comunicaciones Novaventa (2019, 12 de julio). Así es Novaventa | Vídeo Corporativo 2018. [video] Youtube. ',
       link: 'https://youtu.be/Ni020CV1uqM',
     },
     {
       referencia:
-        'Díaz, P. (2014). Comunicación y gestión de marcas de moda. Gustavo Gili.',
+        'Díaz, P. (2014). Comunicación y gestión de marcas de moda. Gustavo Gili. ',
     },
     {
       referencia:
-        'DIESEL. (2017, 6 de septiembre). Go With The Flaw - DIESEL FW17. ',
+        'DIESEL. (2017, 6 de septiembre). Go With The Flaw - DIESEL FW17. [video] Youtube. ',
       link: 'https://youtu.be/aYxG1ASrYKo',
     },
     {
       referencia:
-        'Educaton Colombia. (2017, 11 de octubre). Paso a paso para el registro de una marca.',
+        'Educaton Colombia. (2017, 11 de octubre). Paso a paso para el registro de una marca. [video] Youtube. ',
       link: 'https://youtu.be/RKcaJB0mNqY',
     },
     {
       referencia:
-        'Gef France. (2019, 27 de mayo). ¡Lleva tu look formal a otro nivel! | Nueva colección GEF. ',
+        'Fashion Channel (2014, 3 de marzo). <em>"MOSCHINO" Full Show HD Milano Moda Donna Autumn Winter 2014 2015 by Fashion Channel</em>. [video] Youtube. ',
+      link: 'https://youtu.be/j6FDYGNOXtQ',
+    },
+    {
+      referencia:
+        'Gef France. (2019, 27 de mayo). ¡Lleva tu look formal a otro nivel! | Nueva colección GEF. [video] Youtube. ',
       link: 'https://youtu.be/NIE2ryEVqaE',
     },
     {
@@ -235,7 +240,7 @@ export default {
     },
     {
       referencia:
-        'Guerrero, J. A. (2009). Nuevas tecnologías aplicadas a la moda: diseño, producción, marketing y comunicación.   Parramón.',
+        'Guerrero, J. A. (2009). Nuevas tecnologías aplicadas a la moda: diseño, producción, <em>marketing</em> y comunicación.   Parramón.',
     },
     {
       referencia:
@@ -243,53 +248,44 @@ export default {
     },
     {
       referencia:
-        'Inditex Careers. (2014, 16 de octubre). Inditex · Logística. ',
+        'Inditex Careers. (2014, 16 de octubre). Inditex · Logística. [video] Youtube. ',
       link: 'https://youtu.be/vxwj4AYN_Ao',
     },
     {
-      referencia: 'Insider. (2016, 17 de marzo). Looks de 100 años de moda.',
-      link: 'https://youtu.be/SzSfrKtZFOwl',
-    },
-    {
       referencia:
-        'López, E. (s.f.). La vestimenta: poderosa herramienta de comunicación personal. Emagister. Consultado el 17 de agosto de 2020.',
+        'López, E. (s.f.). La vestimenta: poderosa herramienta de comunicación personal. Emagister. Consultado el 17 de agosto de 2020. ',
       link:
         'https://www.emagister.com/blog/la-vestimenta-poderosa-herramienta-de-comunicacion-personal/',
     },
     {
       referencia:
-        'Mademoisellecora19. (2009, 30 de agosto). "Escena titanic español latino (jack cena en la primera clase). ',
+        'Mademoisellecora19. (2009, 30 de agosto). "Escena titanic español latino (jack cena en la primera clase). [video] Youtube. ',
       link: 'https://youtu.be/nG2QbGN_Wd0',
     },
     {
       referencia:
-        'Martínez, G. (2018). Marketing y comunicación de moda. ESIC Editorial. ',
+        'Martínez, G. (2018). <em>Marketing</em> y comunicación de moda. ESIC Editorial. ',
       link: 'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/',
     },
     {
       referencia:
-        'Moschino (2014, 3 de marzo). "MOSCHINO" Full Show HD Milano Moda Donna Autumn Winter 2014 2015 by Fashion Channel. ',
-      link: 'https://youtu.be/j6FDYGNOXtQ',
-    },
-    {
-      referencia:
-        'Moschino. (2019, 11 de diciembre). Moschino Pre-Fall 2020 fashion show!. ',
+        'Moschino. (2019, 11 de diciembre). Moschino Pre-Fall 2020 fashion show!. [video] Youtube. ',
       link: 'https://youtu.be/zKPg-6yZWmw',
     },
     {
       referencia:
-        'Posner, H. (2015). Marketing de moda (2a. ed.). Editorial Gustavo Gili. ',
+        'Posner, H. (2015). <em>Marketing</em> de moda (2a. ed.). Editorial Gustavo Gili. ',
       link: 'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual',
     },
     {
       referencia:
-        'Reig, M. (s.f.). Moda, gestión del diseño de operaciones. Consultado el 25 de agosto de 2020. ',
+        'Reig, M. (s.f.). Moda, gestión del diseño y operaciones. Consultado el 25 de agosto de 2020. ',
       link:
         'https://repositorioinstitucional.ceu.es/bitstream/10637/4137/1/IndiceyResumen_TFM_ReigOrtega%2CMar%C3%ADa.pdf',
     },
     {
       referencia:
-        'Stefano, Z. (2014, 20 de noviembre). Retail Marketing - Análisis Benetton UDEP.',
+        'Stefano, Z. (2014, 20 de noviembre). <em>Retail Marketing</em> - Análisis Benetton UDEP. [video] Youtube. ',
       link: 'https://youtu.be/CkBc6q5oebk',
     },
     {
@@ -303,7 +299,7 @@ export default {
       termino: 'Branding',
       terminoHtml: '<em>Branding</em>',
       significado:
-        'Hace referencia al proceso de hacer y construir una marca (en inglés brand equity) mediante la administración estratégica del conjunto total de activos vinculados en forma directa o indirecta al nombre y/o símbolo o (logo) que identifican a la marca influyendo en el valor de la marca, tanto para el cliente como para la empresa propietaria de la marca.',
+        'Hace referencia al proceso de hacer y construir una marca (en inglés <em>brand equity</em>) mediante la administración estratégica del conjunto total de activos vinculados en forma directa o indirecta al nombre y/o símbolo o (logo) que identifican a la marca influyendo en el valor de la marca, tanto para el cliente como para la empresa propietaria de la marca.',
     },
     {
       termino: 'Canales de comunicación',
@@ -338,7 +334,7 @@ export default {
     {
       termino: 'Interpretación',
       significado:
-        'Se denomina interprete a la persona que realiza la interpretación, su función consiste en transmitir el mensaje del discurso original teniendo en cuenta diversos aspectos, como el registro utilizado, la información implícita en dicho mensaje y las emociones.',
+        'Se denomina intérprete a la persona que realiza la interpretación, su función consiste en transmitir el mensaje del discurso original teniendo en cuenta diversos aspectos, como el registro utilizado, la información implícita en dicho mensaje y las emociones.',
     },
     {
       termino: 'Logística',
@@ -361,7 +357,8 @@ export default {
         'Es la norma o conjunto de normas que guían, dirigen y ajustan el comportamiento de un individuo, organización, materia y/o actividad.',
     },
     {
-      termino: 'Pretat a porter',
+      termino: 'prêt-à-porter',
+      terminoHtml: '<em>prêt-à-porter</em>',
       significado:
         'Es una expresión francesa que significa textualmente listo para llevar. Se refiere a las prendas de moda producidas en serie con patrones que se repiten en función de la demanda; es por tanto la moda que se ve en la calle a diario.',
     },
@@ -373,7 +370,7 @@ export default {
     {
       termino: 'Psicología de la moda',
       significado:
-        'Es el estudio y el tratamiento de como el color, la imagen, el estilo y la belleza afectan el comportamiento humano, mientras aborda normas culturales y sensibilidades culturales.',
+        'Es el estudio y el tratamiento de cómo el color, la imagen, el estilo y la belleza afectan el comportamiento humano, mientras aborda normas culturales y sensibilidades culturales.',
     },
     {
       termino: 'Registro de Marca',
@@ -392,7 +389,7 @@ export default {
     {
       termino: 'Signos',
       significado:
-        'Cualquier estimulo que se puede captar por los sentidos y que se refiere a una realidad para que podamos considerar que hay un signo ha de haber también alguien que lo interprete.',
+        'Cualquier estímulo que se puede captar por los sentidos y que se refiere a una realidad. Para que podamos considerar que hay un signo ha de haber también alguien que lo interprete.',
     },
   ],
   complementario: [
@@ -440,6 +437,41 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Luis Alfonso Hincapie Echeverri',
+        cargo: 'Instructor',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia',
+      },
+      {
+        nombre: 'Idian Fernando López Agudelo',
+        cargo: 'Instructor',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia',
+      },
+      {
+        nombre: 'Ruth Elena Morales Ríos',
+        cargo: 'Instructora',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia',
+      },
+      {
+        nombre: 'Liliana Victoria Morales Gualdrón',
+        cargo: 'Diseñadora instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Evaluador instruccional',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Julieth Paola Vital',
+        cargo: 'Correctora de estilo',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
@@ -454,25 +486,25 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Marcela González Gómez',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

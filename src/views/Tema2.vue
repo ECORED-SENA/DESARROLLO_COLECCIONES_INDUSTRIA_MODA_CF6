@@ -8,7 +8,7 @@
       .titulo-principal
         .titulo-principal__numero
           span 2
-        h1 ADN de la Marca
+        h1 ADN de la marca
 
       figure.tarjeta.mb-5
         img(src='@/assets/curso/t2-01.jpg')
@@ -29,8 +29,9 @@
               img(src='@/assets/curso/t2-circle.svg')
             .tarjeta.color-primario--claro
               .p-5
-                p.mb-0.eb Marcas registradas grandes como Apple que han logrado que sus usuarios se conviertan en evangelizadores, es ejemplo de lo que se pretende lograr con una marca, el 
-                  b branding 
+                p.mb-0.eb-2 Marcas registradas grandes como Apple que han logrado que sus usuarios se conviertan en evangelizadores, es ejemplo de lo que se pretende lograr con una marca, el 
+                  b 
+                    em branding 
                   | brinda las herramientas para esta construcción, integrando tanto lo tangible como lo intangible de la marca; con esta, la empresa es capaz de 
                   b interpretar y definir los aspectos que integran el entorno visual y creativo 
                   | para desarrollar nuevos y distintos productos con valor agregado. 
@@ -40,11 +41,13 @@
               img(src='@/assets/curso/t2-circle.svg')
             .tarjeta.color-primario--claro
               .p-5
-                p.mb-0.eb La síntesis de los principales valores de la compañía, así como sus aspiraciones, debe ser un reflejo del negocio, la marca se enfoca 
+                p.mb-0.eb-2 La síntesis de los principales valores de la compañía, así como sus aspiraciones, debe ser un reflejo del negocio, la marca se enfoca 
                   b en tocar el corazón de las personas
                   | , en otras palabras, 
                   b mover las mariposas del estómago 
-                  | haciendo una conexión con los sentidos, el branding se hace con el fin de 
+                  | haciendo una conexión con los sentidos, el 
+                  em branding 
+                  | se hace con el fin de 
                   b conectar al usuario 
                   | utilizando aspectos emocionales y comunicativos de la marca, la cual educa, enseña y convence al gestionar su entorno, definir una visión, misión y valores propuestos a partir de las emociones del consumidor.
 
@@ -53,7 +56,7 @@
               img(src='@/assets/curso/t2-circle.svg')
             .tarjeta.color-primario--claro
               .p-5
-                p.mb-0.eb La marca 
+                p.mb-0.eb-2 La marca 
                   b analiza el público al que va dirigida
                   | , el cual le permite ubicarse en un nivel de la jerarquía básica de la moda estableciendo características ligadas al producto y al usuario, que, complementadas con los canales apropiados de distribución, la hacen oportuna y por ende, exitosa en su participación en el mercado de la moda, que es cambiante y competido.
 
@@ -62,7 +65,7 @@
               img(src='@/assets/curso/t2-circle.svg')
             .tarjeta.color-primario--claro
               .p-5
-                p.mb-0.eb Las marcas para ser conocidas, reconocidas y protegidas en el ámbito comercial, requieren cumplir con el debido registro ante el ente regulatorio del país, es a partir de este momento que la marca 
+                p.mb-0.eb-2 Las marcas para ser conocidas, reconocidas y protegidas en el ámbito comercial, requieren cumplir con el debido registro ante el ente regulatorio del país, es a partir de este momento que la marca 
                   b cobra vida y participación 
                   | en el entorno comercial.
 
@@ -76,7 +79,11 @@
       Separador
 
       #t2-2.titulo-segundo
-        h2 2.2 Imagen de la marca o branding: nombre y slogan de la marca, tipografía, fuente y paleta de color
+        h2 2.2 Imagen de la marca o 
+          em branding
+          | : nombre y 
+          em slogan 
+          | de la marca, tipografía, fuente y paleta de color
 
       p.mb-5.eb Para darle 
         b sentido y recordación 
@@ -128,51 +135,56 @@
         )
 
       p.mb-5.eb Un componente adicional pero igual de importante para acompañar la marca es el 
-        b slogan
+        b 
+          em slogan
         | , el cual debe estar cargado de significados que complementan, amplían y confirman la idea; este se construye con una frase corta, compuesta de tal forma que se convierta en un canto, el cual se repite cada vez que se ve o recuerda la marca, se vuelve 
         b memorable, melodioso y crea un lazo de cercanía con el usuario
-        | ; el slogan siempre tiene que transmitir un mensaje positivo que toque y sensibilice al público.
+        | ; el 
+        em slogan 
+        | siempre tiene que transmitir un mensaje positivo que toque y sensibilice al público.
 
       .row.justify-content-center
         .col-lg-6.mb-4
-          .tarjeta.color-primario.p-3.h-100
+          .tarjeta.color-secundario.p-3.h-100
             .row.justify-content-around.align-items-center.h-100
               .col-3.col-sm-2
                 img(src='@/assets/curso/t1-12.svg' style="max-width: 80px")
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    p.mb-0.text-small.text-white Brand Inteligente (2018). Anexo B_U2. Caso Apple: Logo, identidad y gestión de marca | Branding Ejemplos
+                    p.mb-0.text-small.text-white Brand Inteligente (2018). Caso Apple: Logo, identidad y gestión de marca | 
+                      em Branding 
+                      | Ejemplos.
                   .col-sm-auto
                     a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=tf_GDM7lxvs" target="_blank")
                       span Ver más
                       i.fas.fa-link
 
         .col-lg-6.mb-4
-          .tarjeta.color-primario.p-3.h-100
+          .tarjeta.color-secundario.p-3.h-100
             .row.justify-content-around.align-items-center.h-100
               .col-3.col-sm-2
                 img(src='@/assets/curso/t1-12.svg' style="max-width: 80px")
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    p.mb-0.text-small.text-white Anexo C_U2. Videos de marcas reconocidas: Cocacola, Diesel y Benneton
+                    p.mb-0.text-small.text-white Comerciales en Like México (2019).
                       br
-                      | COCA-COLA. (2019). Un Mundo Sin Residuos.
+                      | COCA-COLA. Un Mundo Sin Residuos (2019).
                   .col-sm-auto
                     a.boton.color-acento-contenido.texto-blanco(href="https://youtu.be/A_tC4H9KPzg" target="_blank")
                       span Ver más
                       i.fas.fa-link
 
         .col-lg-6.mb-4.mb-lg-0
-          .tarjeta.color-primario.p-3.h-100
+          .tarjeta.color-secundario.p-3.h-100
             .row.justify-content-around.align-items-center.h-100
               .col-3.col-sm-2
                 img(src='@/assets/curso/t1-12.svg' style="max-width: 80px")
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    p.mb-0.text-small.text-white DIESEL. (2017). 
+                    p.mb-0.text-small.text-white DIESEL (2017). 
                       br
                       | Go With The Flaw - DIESEL FW17.
                   .col-sm-auto
@@ -181,16 +193,17 @@
                       i.fas.fa-link
 
         .col-lg-6
-          .tarjeta.color-primario.p-3.h-100
+          .tarjeta.color-secundario.p-3.h-100
             .row.justify-content-around.align-items-center.h-100
               .col-3.col-sm-2
                 img(src='@/assets/curso/t1-12.svg' style="max-width: 80px")
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    p.mb-0.text-small.text-white Benneton (2014). 
+                    p.mb-0.text-small.text-white Stefano Zust (2014). 
                       br
-                      | Retail Marketing - Análisis Benetton UDEP. 
+                      em Retail Marketing 
+                      | - Análisis Benetton UDEP. 
                   .col-sm-auto
                     a.boton.color-acento-contenido.texto-blanco(href="https://youtu.be/CkBc6q5oebk" target="_blank")
                       span Ver más
@@ -211,7 +224,7 @@
               b público objetivo es fundamental
               | , porque es quien da las pautas para el desarrollo de su estructura, acepta y valida todas las acciones con las que esta pretende cumplir sus 
               b objetivos
-              | , dirigidos a satisfacer necesidades, gustos y preferencias; estos elementos empiezan a generar una clasificación particular dependiendo del nivel de desarrollo de la marca sobre los cuales se centra la atención en las características particulares, por ejemplo: la identificación de problemas importantes, como influenciar en ese público objetivo y generar resultados en corto tiempo con la contundencia esperada. 
+              | , dirigidos a satisfacer necesidades, gustos y preferencias; estos elementos empiezan a generar una clasificación particular dependiendo del nivel de desarrollo de la marca sobre los cuales se centra la atención en las características particulares, por ejemplo: la identificación de problemas importantes, cómo influenciar en ese público objetivo y generar resultados en corto tiempo con la contundencia esperada. 
             p.mb-0.eb Las anteriores premisas solo se logran, si la marca tiene claro el 
               b perfil del consumidor
               | , sus necesidades, motivaciones y costumbres que definen características para clasificar y dirigir el estilo y tono de las acciones a desarrollar; contar una historia nueva, original, impactante, más efectiva que genere el voz a voz que da estatus y recordación a la marca imprimiendo alta creatividad, enfocada en el público y teniendo claro el nivel del mercado al que está dirigida en la industria de la moda.
@@ -233,7 +246,7 @@
           .anexo__texto
             p 
               b Anexo. 
-              | Los niveles del mercado de moda
+              | Los niveles del mercado de moda.
         
       .row.justify-content-center.mb-5
         .col-lg-10
@@ -255,7 +268,9 @@
         | que está logrando la marca. 
       p.eb.mb-5 Algunos ejemplos de 
         b marcas registradas exitosas 
-        | de moda locales e internacionales son: Louis Vuitton, Nike, Adidas, HyM, Zara, Arturo Calle, Studio F, Touche, Agua Bendita, Onda de Mar, Camilo Álvarez, Andrés Pajón, Fou, By Danny Tejada, Tarrao.  
+        | de moda locales e internacionales son: Louis Vuitton, Nike, Adidas, HyM, Zara, Arturo Calle, Studio F, 
+        em Touche
+        | , Agua Bendita, Onda de Mar, Camilo Álvarez, Andrés Pajón, Fou, By Danny Tejada, Tarrao.  
 
 
       figure.tarjeta
@@ -281,8 +296,8 @@
       h5.eb
         b Canales directos de distribución: 
 
-      p.mb-5.eb hacen referencia a la modalidad de comercio en que el 
-        b productor vende y hace llegar el articulo a su cliente 
+      p.mb-5.eb Hacen referencia a la modalidad de comercio en que el 
+        b productor vende y hace llegar el artículo a su cliente 
         | o usuario final de manera 
         b directa
         | ; es decir, sin la necesidad de intermediarios, tiene establecida una 
@@ -297,7 +312,7 @@
               i.fas.fa-atom
               p.eb.mb-0 
                 b Puntos de venta: 
-                | donde dispone locales con infraestructura, productos y administración usando sus propios medios.
+                | donde dispone locales con infraestructura, productos y administración, usando sus propios medios.
 
             li 
               i.fas.fa-atom
@@ -366,7 +381,7 @@
               i.fas.fa-atom
               p.eb.mb-0 
                 b Representante del fabricante: 
-                | agente independiente que vende parte o toda una línea de productos en un territorio especifico.
+                | agente independiente que vende parte o toda una línea de productos en un territorio específico.
 
             li 
               i.fas.fa-atom
@@ -408,7 +423,8 @@
             li 
               i.fas.fa-atom
               p.eb.mb-0 
-                b Outlet: 
+                b 
+                  em Outlet: 
                 | tiendas donde se comercializan piezas de una o varias marcas, que tienen irregularidades o están fuera de colección.
             li 
               i.fas.fa-atom
@@ -434,7 +450,9 @@
 
       p.eb Todas estas 
         b estrategias comerciales 
-        | se apoyan hoy en el web Marketing a través de redes sociales, tiendas virtuales, Google Ads, entre otros, para ofrecer y comercializar sus productos y servicios, siendo una de las formas más efectivas de llegar al consumidor o público objetivo. 
+        | se apoyan hoy en el 
+        em web marketing 
+        | a través de redes sociales, tiendas virtuales, Google Ads, entre otros, para ofrecer y comercializar sus productos y servicios, siendo una de las formas más efectivas de llegar al consumidor o público objetivo. 
       p.eb.mb-5 Estas hacen parte del 
         b conjunto de acciones 
         | que tienen las marcas para llevar los productos hasta sus clientes. Existen muchas otras, la más adecuada para cada una de ellas dependerá de su 
@@ -443,7 +461,7 @@
       
       .row.justify-content-center
         .col-lg-6.mb-4
-          .tarjeta.color-primario.p-3.h-100
+          .tarjeta.color-secundario.p-3.h-100
             .row.justify-content-around.align-items-center.h-100
               .col-3.col-sm-2
                 img(src='@/assets/curso/t1-12.svg' style="max-width: 80px")
@@ -452,16 +470,14 @@
                   .col.mb-3.mb-sm-0
                     p.mb-0.text-small.text-white Gef France (2019).
                       br
-                      | ¡Lleva tu look formal a otro nivel!
-                      br
-                      | Nueva colección GEF.
+                      | ¡Lleva tu look formal a otro nivel! | Nueva colección GEF.
                   .col-sm-auto
                     a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=NIE2ryEVqaE" target="_blank")
                       span Ver más
                       i.fas.fa-link
 
         .col-lg-6.mb-4
-          .tarjeta.color-primario.p-3.h-100
+          .tarjeta.color-secundario.p-3.h-100
             .row.justify-content-around.align-items-center.h-100
               .col-3.col-sm-2
                 img(src='@/assets/curso/t1-12.svg' style="max-width: 80px")
@@ -477,7 +493,7 @@
                       i.fas.fa-link
 
         .col-lg-6
-          .tarjeta.color-primario.p-3.h-100
+          .tarjeta.color-secundario.p-3.h-100
             .row.justify-content-around.align-items-center.h-100
               .col-3.col-sm-2
                 img(src='@/assets/curso/t1-12.svg' style="max-width: 80px")
@@ -486,9 +502,7 @@
                   .col.mb-3.mb-sm-0
                     p.mb-0.text-small.text-white Comunicaciones novaventa (2018). 
                       br
-                      | Así es Novaventa
-                      br
-                      | Vídeo Corporativo 2018
+                      | Así es Novaventa | Vídeo Corporativo 2018
                   .col-sm-auto
                     a.boton.color-acento-contenido.texto-blanco(href="https://youtu.be/Ni020CV1uqM" target="_blank")
                       span Ver más
@@ -504,7 +518,7 @@
           .cajon-b.color-primario.p-4.mb-2
             p.eb.mb-0 Para que las marcas pasen a formar parte integral del sistema comercial de un país, es necesario que después de desarrollar el proceso de elaboración y construcción de identidad propia, cumplan los lineamientos establecidos para el 
               b registro y protección de la marca
-              | , definidos por el país de origen. Este proceso en Colombia, se hace a través de la Superintendencia de Industria y Comercio (SIC) y consiste en un sistema de registro y protección de marca que a su vez ayuda a los consumidores a identificar o comprar productos o servicios que por su registro se adecuan a sus necesidades. Al registrarla, se debe especificar para qué productos y servicios se quiere usar, Colombia y muchos otros países han adoptado la 
+              | , definidos por el país de origen. Este proceso en Colombia, se hace a través de la Superintendencia de Industria y Comercio (SIC) y consiste en un sistema de registro y protección de marca que a su vez ayuda a los consumidores a identificar o comprar productos o servicios que por su registro se adecúan a sus necesidades. Al registrarla, se debe especificar para qué productos y servicios se quiere usar, Colombia y muchos otros países han adoptado la 
               b Clasificación Internacional de Niza 
               | (Arreglo de Niza, 1957) que se aplica al registro de marcas.
           .cajon.color-acento-contenido.p-5
@@ -579,7 +593,7 @@
         )
 
     .p-4.p-md-5
-      p.mb-5.text-center Este trámite se realiza ante el SIC, entidad que se encarga de verificar y asignar el respectivo registro.
+      p.mb-5.text-center Este trámite se realiza ante la SIC, entidad que se encarga de verificar y asignar el respectivo registro.
 
       .text-center.mb-5
         a.anexo.d-inline-block(:href="obtenerLink('/downloads/Anexo_G_U2_Registro_de_Marcas_en_Colombia.pdf')" target="_blank")
@@ -588,11 +602,11 @@
           .anexo__texto
             p 
               b Documento. 
-              | Registro de marcas en Colombia
+              | Registro de marcas en Colombia.
 
       .row.justify-content-center
         .col-lg-6
-          .tarjeta.color-primario.p-3.h-100
+          .tarjeta.color-secundario.p-3.h-100
             .row.justify-content-around.align-items-center.h-100
               .col-3.col-sm-2
                 img(src='@/assets/curso/t1-12.svg' style="max-width: 80px")
@@ -623,7 +637,7 @@ export default {
       },
       {
         texto:
-          '<p class="eb"><b>La misión </b>es la razón por la que existe la marca, se convierte en <b>un compromiso </b>de la organización que se debe cumplir a cabalidad, esta debe <b>ser conocida y practicada </b>por todas y cada una de las personas que están relacionadas con el proceso. De igual manera se debe proyectar y construir una visión que refleje, motive y promueva la acción de todos en la organización para lograr en el futuro sus objetivos de una manera clara y alcanzable.</p>',
+          '<p class="eb"><b>La misión </b>es la razón por la que existe la marca, se convierte en <b>un compromiso </b>de la organización que se debe cumplir a cabalidad, esta debe <b>ser conocida y practicada </b>por todas y cada una de las personas que están relacionadas con el proceso. De igual manera se debe proyectar y construir una <b>visión</b> que refleje, motive y promueva la acción de todos en la organización para lograr en el futuro sus objetivos de una manera clara y alcanzable.</p>',
         imagen: require('@/assets/curso/t2-03.jpg'),
       },
       {
