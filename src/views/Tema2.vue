@@ -247,15 +247,14 @@
             p 
               b Anexo. 
               | Los niveles del mercado de moda.
-        
-      .row.justify-content-center.mb-5
-        .col-lg-10
-          .titulo-sexto.color-primario
-            h5 Jerarquía básica de la moda:
-          
-          figure.mb-5
-            img(src='@/assets/template/img-placeholder.svg', alt='Texto que describa la imagen')
-            figcaption Fuente: SENA (2020)
+
+      .titulo-sexto.color-primario
+        h5 Jerarquía básica de la moda:
+      
+      figure.mb-5
+        img.d-none.d-lg-block(src='@/assets/curso/piramide-01.svg')
+        img.d-lg-none(src='@/assets/curso/piramide-02.svg')
+        figcaption Fuente: SENA (2020)
 
       p.eb 
         b Las marcas son exitosas 
