@@ -26,7 +26,7 @@
         .col-md-10.mb
           .tarjeta-avatar-b.mb-5
             .tarjeta-avatar-b__img
-              img(src='@/assets/curso/t2-circle.svg')
+              img(src='@/assets/curso/ico-01.svg')
             .tarjeta.color-primario--claro
               .p-5
                 p.mb-0.eb-2 Marcas registradas grandes como Apple que han logrado que sus usuarios se conviertan en evangelizadores, es ejemplo de lo que se pretende lograr con una marca, el 
@@ -38,7 +38,7 @@
 
           .tarjeta-avatar-b.mb-5
             .tarjeta-avatar-b__img
-              img(src='@/assets/curso/t2-circle.svg')
+              img(src='@/assets/curso/ico-02.svg')
             .tarjeta.color-primario--claro
               .p-5
                 p.mb-0.eb-2 La síntesis de los principales valores de la compañía, así como sus aspiraciones, debe ser un reflejo del negocio, la marca se enfoca 
@@ -53,7 +53,7 @@
 
           .tarjeta-avatar-b.mb-5
             .tarjeta-avatar-b__img
-              img(src='@/assets/curso/t2-circle.svg')
+              img(src='@/assets/curso/ico-03.svg')
             .tarjeta.color-primario--claro
               .p-5
                 p.mb-0.eb-2 La marca 
@@ -62,7 +62,7 @@
 
           .tarjeta-avatar-b.mb-5
             .tarjeta-avatar-b__img
-              img(src='@/assets/curso/t2-circle.svg')
+              img(src='@/assets/curso/ico-04.svg')
             .tarjeta.color-primario--claro
               .p-5
                 p.mb-0.eb-2 Las marcas para ser conocidas, reconocidas y protegidas en el ámbito comercial, requieren cumplir con el debido registro ante el ente regulatorio del país, es a partir de este momento que la marca 
