@@ -61,7 +61,7 @@ const router = new VueRouter({
       name: 'referencias',
       component: () =>
         import(
-          /* webpackChunkName: "referencias" */ '../../node_modules/ecored-base-pkg/src/views/Referencias.vue'
+          /* webpackChunkName: "referencias" */ '../views/Referencias.vue'
         ),
     },
     {

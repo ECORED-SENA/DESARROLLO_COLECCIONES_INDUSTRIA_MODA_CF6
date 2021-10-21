@@ -466,7 +466,7 @@
                       b uniformes
                       | , las empresas lo utilizan para generar un ADN de identidad en sus empleados, también para ser reconocida socialmente, hábitos religiosos, deportes, escuelas, personal médico y otros, cada uno tiene su propio uniforme, 
                       b las sociedades también van generando uniformes
-                      | , es el caso del jean y camiseta <em>T-shirt</em>, dos piezas fundamentales en el ropero de todas las personas a cualquier edad y que en este momento están presentes casi que en todo lugar.
+                      | , es el caso del <em>jean</em> y camiseta <em>T-shirt</em>, dos piezas fundamentales en el ropero de todas las personas a cualquier edad y que en este momento están presentes casi que en todo lugar.
 
             .linea-tiempo-d__item.row
               .col-auto.linea-tiempo-d__item__col-number
@@ -540,7 +540,7 @@
                       b El vestido para el éxito 
                       | está muy 
                       b ligado a la actitud 
-                      | que cada uno le adicione a esa prenda, que puede ser llevada a niveles inimaginables, solamente la seguridad, satisfacción, movilidad, que el portador sea capaz de generar desde el momento que la viste, obviamente una buena práctica de estética y coherencia ayuda, pero no es del caso dejar todo a la actitud, también hay que 
+                      | que cada uno le adicione a esa prenda, que puede ser llevada a niveles inimaginables, solamente la seguridad, satisfacción, movilidad, que el portador sea capaz de generar desde el momento que la viste, obviamente una buena práctica de estética y coherencia ayuda, pero no es de caso dejar todo a la actitud, también hay que 
                       b conocer del tema y conocerse 
                       | en las dimensiones física, mental y actitudinal.
 
@@ -589,7 +589,7 @@
         b El color 
         | como el principal 
         b agente motivador
-        | , íncita a elegir aquella prenda que se ve al pasar por una vitrina o entrar a una tienda, luego sigue el reflejo de lo que se ve al usarla o como se cree que se ven, es allí donde se da la 
+        | , incita a elegir aquella prenda que se ve al pasar por una vitrina o entrar a una tienda, luego sigue el reflejo de lo que se ve al usarla o como se cree que se ven, es allí donde se da la 
         b conexión 
         | del cerebro con lo que se porta y lo atractivos que pueden llegar a verse. 
 
@@ -784,9 +784,7 @@
                 b La información de prensa 
                 | que consiste en utilización de 
                 b medios de comunicación tradicionales
-                | , televisión, radio, impresos como periódicos y revistas 
-                em especializados 
-                | que ayudan a 
+                | , televisión, radio, impresos como periódicos y revistas especializadas que ayudan a 
                 b capturar perfiles de usuarios tradicionales 
                 | que no frecuentan el internet, pero son buenos consumidores.
             li 
@@ -836,7 +834,9 @@
             li 
               i.fas.fa-atom
               p.eb.mb-0 
-                b El uso de e-mail: 
+                b El uso de 
+                  em e-mail
+                  | : 
                 | mantiene activa la comunicación y las relaciones comerciales con todos los usuarios y conocedores de la marca, adicionalmente facilita la promoción de los negocios.
             li 
               i.fas.fa-atom

@@ -224,7 +224,9 @@
               b público objetivo es fundamental
               | , porque es quien da las pautas para el desarrollo de su estructura, acepta y valida todas las acciones con las que esta pretende cumplir sus 
               b objetivos
-              | , dirigidos a satisfacer necesidades, gustos y preferencias; estos elementos empiezan a generar una clasificación particular dependiendo del nivel de desarrollo de la marca sobre los cuales se centra la atención en las características particulares, por ejemplo: la identificación de problemas importantes, cómo influenciar en ese público objetivo y generar resultados en corto tiempo con la contundencia esperada. 
+              | , dirigidos a 
+              b satisfacer necesidades, gustos y preferencias
+              | ; estos elementos empiezan a generar una clasificación particular dependiendo del nivel de desarrollo de la marca sobre los cuales se centra la atención en las características particulares, por ejemplo: la identificación de problemas importantes, cómo influenciar en ese público objetivo y generar resultados en corto tiempo con la contundencia esperada. 
             p.mb-0.eb Las anteriores premisas solo se logran, si la marca tiene claro el 
               b perfil del consumidor
               | , sus necesidades, motivaciones y costumbres que definen características para clasificar y dirigir el estilo y tono de las acciones a desarrollar; contar una historia nueva, original, impactante, más efectiva que genere el voz a voz que da estatus y recordación a la marca imprimiendo alta creatividad, enfocada en el público y teniendo claro el nivel del mercado al que está dirigida en la industria de la moda.
@@ -249,7 +251,7 @@
               | Los niveles del mercado de moda.
 
       .titulo-sexto.color-primario
-        h5 Jerarquía básica de la moda:
+        h5 Jerarquía básica de la moda
       
       figure.mb-5
         img.d-none.d-lg-block(src='@/assets/curso/piramide-01.svg')
@@ -268,7 +270,7 @@
       p.eb.mb-5 Algunos ejemplos de 
         b marcas registradas exitosas 
         | de moda locales e internacionales son: Louis Vuitton, Nike, Adidas, HyM, Zara, Arturo Calle, Studio F, 
-        em Touche
+        em Touché
         | , Agua Bendita, Onda de Mar, Camilo Álvarez, Andrés Pajón, Fou, By Danny Tejada, Tarrao.  
 
 
@@ -352,7 +354,7 @@
       h5.eb
         b Canal indirecto de distribución: 
 
-      p.mb-5.eb es cuando el producto debe pasar por una o varias manos (intermediarios) antes de llegar al usuario final; se puede hacer utilizando los siguientes canales: 
+      p.mb-5.eb Es cuando el producto debe pasar por una o varias manos (intermediarios) antes de llegar al usuario final; se puede hacer utilizando los siguientes canales: 
 
       .row.justify-content-center.align-items-stretch
         .col-lg-6.pe-5
@@ -501,7 +503,7 @@
                   .col.mb-3.mb-sm-0
                     p.mb-0.text-small.text-white Comunicaciones novaventa (2018). 
                       br
-                      | Así es Novaventa | Vídeo Corporativo 2018
+                      | Así es Novaventa | Vídeo Corporativo 2018.
                   .col-sm-auto
                     a.boton.color-acento-contenido.texto-blanco(href="https://youtu.be/Ni020CV1uqM" target="_blank")
                       span Ver más

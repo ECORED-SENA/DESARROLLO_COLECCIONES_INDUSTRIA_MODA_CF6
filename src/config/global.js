@@ -83,7 +83,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '1.10',
             titulo:
-              'Canales de comunicación de la moda: medios digitales, impresos, audiovisual, material P.O.P',
+              'Canales de comunicación de la moda: medios digitales, impresos, audiovisual, material P.O.P.',
             hash: 't1-10',
           },
         ],
@@ -168,29 +168,23 @@ export default {
   referencias: [
     {
       referencia:
-        '20th Century Studios España. (2012, 28 de marzo). Titanic 3D - Jack y Rose bailan en tercera clase. [video] Youtube. ',
+        '20th Century Studios España. (2012, 28 de marzo). Titanic 3D - Jack y Rose bailan en tercera clase. [Video] Youtube. ',
       link: 'https://youtu.be/pOSZrMOzq00',
     },
     {
       referencia:
-        'Acerte no Look - Dicas de Moda e Beleza. (2016). Looks de 100 anos de moda. [video] Youtube. ',
+        'Acerte no Look - Dicas de Moda e Beleza. (2016). <em>Looks de 100 anos de moda</em>. [Video] Youtube. ',
       link: 'https://www.youtube.com/watch?v=SzSfrKtZFOw',
     },
     {
       referencia:
-        'Ananá. (2019, 05 de mayo). Como hacer una colección de moda – Anana. [video] Youtube. ',
+        'Ananá. (2019, 05 de mayo). Como hacer una colección de moda – Anana. [Video] Youtube. ',
       link: 'https://youtu.be/5WgxbULQFC8?t=6',
     },
     {
       referencia:
-        '<em>Brand</em> Inteligente. (2018, 25 de septiembre). Caso Apple: Logo, identidad y gestión de marca | <em>Branding</em> Ejemplos. [video] Youtube. ',
+        '<em>Brand</em> Inteligente. (2018, 25 de septiembre). Caso Apple: Logo, identidad y gestión de marca | <em>Branding</em> Ejemplos. [Video] Youtube. ',
       link: 'https://youtu.be/tf_GDM7lxvs',
-    },
-    {
-      referencia:
-        'Cámara de Comercio de Cúcuta. (s. f.). Registro de Marcas en Colombia. ',
-      link:
-        'http://www.cccucuta.org.co/eventos-9-10/especializacion-evaluacion-y-gerencia-de-proyectos.htm',
     },
     {
       referencia:
@@ -203,12 +197,12 @@ export default {
     },
     {
       referencia:
-        'Comerciales en Like México (2019, 29 de octubre). COCA-COLA - Un Mundo Sin Residuos (2019). [video] Youtube. ',
+        'Comerciales en Like México (2019, 29 de octubre). COCA-COLA - Un Mundo Sin Residuos (2019). [Video] Youtube. ',
       link: 'https://youtu.be/A_tC4H9KPzg',
     },
     {
       referencia:
-        'Comunicaciones Novaventa (2019, 12 de julio). Así es Novaventa | Vídeo Corporativo 2018. [video] Youtube. ',
+        'Comunicaciones Novaventa (2019, 12 de julio). Así es Novaventa | Vídeo Corporativo 2018. [Video] Youtube. ',
       link: 'https://youtu.be/Ni020CV1uqM',
     },
     {
@@ -217,22 +211,22 @@ export default {
     },
     {
       referencia:
-        'DIESEL. (2017, 6 de septiembre). Go With The Flaw - DIESEL FW17. [video] Youtube. ',
+        'DIESEL. (2017, 6 de septiembre). <em>Go With The Flaw - DIESEL FW17</em>. [Video] Youtube. ',
       link: 'https://youtu.be/aYxG1ASrYKo',
     },
     {
       referencia:
-        'Educaton Colombia. (2017, 11 de octubre). Paso a paso para el registro de una marca. [video] Youtube. ',
+        'Educaton Colombia. (2017, 11 de octubre). Paso a paso para el registro de una marca. [Video] Youtube. ',
       link: 'https://youtu.be/RKcaJB0mNqY',
     },
     {
       referencia:
-        'Fashion Channel (2014, 3 de marzo). <em>"MOSCHINO" Full Show HD Milano Moda Donna Autumn Winter 2014 2015 by Fashion Channel</em>. [video] Youtube. ',
+        'Fashion Channel (2014, 3 de marzo). <em>"MOSCHINO" Full Show HD Milano Moda Donna Autumn Winter 2014 2015 by Fashion Channel</em>. [Video] Youtube. ',
       link: 'https://youtu.be/j6FDYGNOXtQ',
     },
     {
       referencia:
-        'Gef France. (2019, 27 de mayo). ¡Lleva tu look formal a otro nivel! | Nueva colección GEF. [video] Youtube. ',
+        'Gef France. (2019, 27 de mayo). ¡Lleva tu look formal a otro nivel! | Nueva colección GEF. [Video] Youtube. ',
       link: 'https://youtu.be/NIE2ryEVqaE',
     },
     {
@@ -248,7 +242,7 @@ export default {
     },
     {
       referencia:
-        'Inditex Careers. (2014, 16 de octubre). Inditex · Logística. [video] Youtube. ',
+        'Inditex Careers. (2014, 16 de octubre). Inditex · Logística. [Video] Youtube. ',
       link: 'https://youtu.be/vxwj4AYN_Ao',
     },
     {
@@ -259,23 +253,13 @@ export default {
     },
     {
       referencia:
-        'Mademoisellecora19. (2009, 30 de agosto). "Escena titanic español latino (jack cena en la primera clase). [video] Youtube. ',
+        'Mademoisellecora19. (2009, 30 de agosto). Escena titanic español latino (jack cena en la primera clase). [Video] Youtube. ',
       link: 'https://youtu.be/nG2QbGN_Wd0',
     },
     {
       referencia:
-        'Martínez, G. (2018). <em>Marketing</em> y comunicación de moda. ESIC Editorial. ',
-      link: 'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/',
-    },
-    {
-      referencia:
-        'Moschino. (2019, 11 de diciembre). Moschino Pre-Fall 2020 fashion show!. [video] Youtube. ',
+        'Moschino. (2019, 11 de diciembre). <em>Moschino Pre-Fall 2020 fashion show!</em> [Video] Youtube. ',
       link: 'https://youtu.be/zKPg-6yZWmw',
-    },
-    {
-      referencia:
-        'Posner, H. (2015). <em>Marketing</em> de moda (2a. ed.). Editorial Gustavo Gili. ',
-      link: 'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual',
     },
     {
       referencia:
@@ -285,13 +269,8 @@ export default {
     },
     {
       referencia:
-        'Stefano, Z. (2014, 20 de noviembre). <em>Retail Marketing</em> - Análisis Benetton UDEP. [video] Youtube. ',
+        'Stefano, Z. (2014, 20 de noviembre). <em>Retail Marketing</em> - Análisis Benetton UDEP. [Video] Youtube. ',
       link: 'https://youtu.be/CkBc6q5oebk',
-    },
-    {
-      referencia:
-        'Veneziani, C. (2011). La imagen de la moda. Editorial Nobuko. ',
-      link: 'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/',
     },
   ],
   glosario: [
@@ -358,7 +337,7 @@ export default {
     },
     {
       termino: 'prêt-à-porter',
-      terminoHtml: '<em>prêt-à-porter</em>',
+      terminoHtml: '<em>Prêt-à-porter</em>',
       significado:
         'Es una expresión francesa que significa textualmente listo para llevar. Se refiere a las prendas de moda producidas en serie con patrones que se repiten en función de la demanda; es por tanto la moda que se ve en la calle a diario.',
     },
@@ -435,7 +414,7 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Luis Alfonso Hincapie Echeverri',
@@ -478,43 +457,43 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Marcela González Gómez',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Andrés Mauricio Santaella Ochoa',
         cargo: 'Desarrollo front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Andrés Mauricio Santaella Ochoa',
         cargo: 'Soporte front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },
