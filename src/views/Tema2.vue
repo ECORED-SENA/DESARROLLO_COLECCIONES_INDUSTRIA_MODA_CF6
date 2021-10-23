@@ -269,8 +269,7 @@
         | que está logrando la marca. 
       p.eb.mb-5 Algunos ejemplos de 
         b marcas registradas exitosas 
-        | de moda locales e internacionales son: Louis Vuitton, Nike, Adidas, HyM, Zara, Arturo Calle, Studio F, 
-        em Touché
+        | de moda locales e internacionales son: Louis Vuitton, Nike, Adidas, HyM, Zara, Arturo Calle, Studio F, Touché
         | , Agua Bendita, Onda de Mar, Camilo Álvarez, Andrés Pajón, Fou, By Danny Tejada, Tarrao.  
 
 

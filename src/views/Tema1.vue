@@ -540,7 +540,7 @@
                       b El vestido para el éxito 
                       | está muy 
                       b ligado a la actitud 
-                      | que cada uno le adicione a esa prenda, que puede ser llevada a niveles inimaginables, solamente la seguridad, satisfacción, movilidad, que el portador sea capaz de generar desde el momento que la viste, obviamente una buena práctica de estética y coherencia ayuda, pero no es de caso dejar todo a la actitud, también hay que 
+                      | que cada uno le adicione a esa prenda, que puede ser llevada a niveles inimaginables, solamente la seguridad, satisfacción, movilidad, que el portador sea capaz de generar desde el momento que la viste, obviamente una buena práctica de estética y coherencia ayuda, pero no es el caso dejar todo a la actitud, también hay que 
                       b conocer del tema y conocerse 
                       | en las dimensiones física, mental y actitudinal.
 
