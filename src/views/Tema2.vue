@@ -10,6 +10,10 @@
           span 2
         h1 ADN de la marca
 
+      figure.mb-5
+        .video
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/4N96R9R7Ifk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
       figure.tarjeta.mb-5
         img(src='@/assets/curso/t2-01.jpg')
 
@@ -280,6 +284,10 @@
 
       #t2-4.titulo-segundo
         h2 2.4 Canales de distribución
+
+      figure.mb-5
+        .video
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/jln7JsbFbPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
       p.mb-0.eb En la 
         b estrategia del ADN de marca 
