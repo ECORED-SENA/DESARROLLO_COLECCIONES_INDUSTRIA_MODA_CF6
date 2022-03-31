@@ -90,7 +90,7 @@
         )
         .col-md-6.p-0
           .p-4.p-md-5.tarjeta--azul
-            p.eb La globalización ha permitido cruzar fronteras, principalmente culturales, es ahí donde la comunicación de la moda interviene, convirtiendo lo local en global, logrando la participación de la sociedad en mercados nacionales e internacionales sin necesidad de desplazamiento físico, sino través de tecnologías de la información y comunicación.
+            p.eb La globalización ha permitido cruzar fronteras, principalmente culturales, es ahí donde la comunicación de la moda interviene, convirtiendo lo local en global, logrando la participación de la sociedad en mercados nacionales e internacionales sin necesidad de desplazamiento físico, sino a través de tecnologías de la información y comunicación.
             p.eb.mb-0 La evolución de los medios de comunicación y de transporte ha determinado el flujo de todo tipo de información, incluyendo la moda; hoy con los desarrollos tecnológicos la información fluye a altas velocidades, el pensamiento cambió, la actitud, el comportamiento, las actividades, la participación en eventos públicos y sociales pasó de ser exclusiva a cotidiana. Se está viviendo una aproximación a la democratización 
               b ¡todo comunica!
               | , las personas conocen lo que existe, seleccionan y toman decisiones.
@@ -359,7 +359,7 @@
       
       p.eb Para el buen desarrollo de este tema se deben tener en cuenta varios aspectos que en él confluyen; en principio se tienen que abordar 
         b las personas como principales protagonistas
-        | , a las cuales les corresponde tomar las decisión final en cuanto a la elección de cómo se presentan en su vida pública y privada, la cual viene cargada de un sin número de simbolismos que inician en su propia 
+        | , a las cuales les corresponde tomar la decisión final en cuanto a la elección de cómo se presentan en su vida pública y privada, la cual viene cargada de un sin número de simbolismos que inician en su propia 
         b personalidad 
         | y en la forma 
         b como se percibe a sí mismo mental y físicamente
@@ -514,7 +514,7 @@
                   .linea-tiempo-d__item__content__slot.p-3
                     p.mb-0.eb Como bien dice el refrán popular: “El hábito sí hace al monje”, es muy importante entender que 
                       b la globalización y la comunicación convierten a las personas en habitantes del mundo
-                      | , lo local se va perdiendo o se convierte en una herramienta utilizada en otro lugar, de tal forma que la cultura se interpreta incluso de formas muy distintitas, en muchos casos por desconocimiento, se irrespeta, es una cuestión de interpretación.
+                      | , lo local se va perdiendo o se convierte en una herramienta utilizada en otro lugar, de tal forma que la cultura se interpreta incluso de formas muy distintas, en muchos casos por desconocimiento, se irrespeta, es una cuestión de interpretación.
 
 
             .linea-tiempo-d__item.row
